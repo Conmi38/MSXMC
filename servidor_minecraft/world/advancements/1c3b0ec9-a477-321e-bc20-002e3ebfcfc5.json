@@ -433,6 +433,7 @@
       "minecraft:forest": "2024-12-10 23:49:16 +0000",
       "minecraft:sparse_jungle": "2024-12-10 23:49:23 +0000",
       "minecraft:cherry_grove": "2024-12-11 00:08:58 +0000",
+      "minecraft:river": "2024-12-11 00:27:33 +0000",
       "minecraft:savanna": "2024-12-11 00:07:36 +0000",
       "minecraft:plains": "2024-12-11 00:01:47 +0000"
     },
@@ -495,7 +496,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-11 00:04:56 +0000",
-      "cooked_beef": "2024-12-10 23:57:43 +0000"
+      "cooked_beef": "2024-12-10 23:57:43 +0000",
+      "beef": "2024-12-11 00:28:26 +0000"
     },
     "done": false
   },
@@ -550,6 +552,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-10 23:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-11 00:27:07 +0000"
     },
     "done": true
   },
