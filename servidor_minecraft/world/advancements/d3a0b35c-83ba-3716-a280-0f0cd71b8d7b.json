@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-11 00:39:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-10 23:51:48 +0000"
@@ -355,6 +361,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-11 00:39:52 +0000",
       "minecraft:spider": "2024-12-11 00:08:55 +0000",
       "minecraft:zombie": "2024-12-11 00:10:14 +0000"
     },
@@ -384,6 +391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-11 00:39:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-12-11 00:07:24 +0000"
@@ -410,8 +423,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2024-12-11 00:38:46 +0000",
       "minecraft:forest": "2024-12-10 23:49:59 +0000",
       "minecraft:sparse_jungle": "2024-12-10 23:50:34 +0000",
+      "minecraft:cherry_grove": "2024-12-11 00:38:55 +0000",
+      "minecraft:savanna": "2024-12-11 00:38:23 +0000",
       "minecraft:bamboo_jungle": "2024-12-10 23:52:05 +0000",
       "minecraft:plains": "2024-12-11 00:01:42 +0000"
     },
