@@ -406,6 +406,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_chicken": "2024-12-10 23:58:59 +0000",
+      "cooked_mutton": "2024-12-11 01:43:54 +0000",
       "cooked_beef": "2024-12-10 23:58:57 +0000"
     },
     "done": false
@@ -679,6 +680,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-11 00:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-11 01:54:51 +0000"
     },
     "done": true
   },
@@ -976,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-11 01:54:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-11 01:15:11 +0000"
@@ -1009,6 +1022,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-12-11 00:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-11 01:54:51 +0000"
     },
     "done": true
   },
