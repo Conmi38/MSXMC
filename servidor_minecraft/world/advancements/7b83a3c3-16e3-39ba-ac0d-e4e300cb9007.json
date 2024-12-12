@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2024-12-12 03:12:14 +0000",
       "minecraft:forest": "2024-12-10 23:50:03 +0000",
       "minecraft:deep_dark": "2024-12-11 00:35:31 +0000",
       "minecraft:cherry_grove": "2024-12-12 02:58:26 +0000",
@@ -1542,6 +1543,24 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-12 03:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-12 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-12 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-12 03:14:20 +0000"
     },
     "done": true
   },
