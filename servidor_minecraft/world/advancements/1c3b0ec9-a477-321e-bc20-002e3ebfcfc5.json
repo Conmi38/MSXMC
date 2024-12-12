@@ -398,6 +398,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-11 01:17:27 +0000",
+      "bread": "2024-12-12 02:44:53 +0000",
       "cooked_mutton": "2024-12-11 00:04:56 +0000",
       "potato": "2024-12-11 01:15:49 +0000",
       "cooked_beef": "2024-12-10 23:57:43 +0000",
@@ -719,6 +720,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-11 01:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-11 01:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-11 01:20:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:23:00 +0000"
@@ -755,21 +774,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_pickaxe": "2024-12-11 01:23:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:23:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-11 01:23:18 +0000"
     },
     "done": true
   },
@@ -779,21 +786,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2024-12-11 01:20:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:23:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2024-12-11 01:20:57 +0000"
     },
     "done": true
   },
@@ -857,12 +852,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2024-12-11 01:20:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:23:00 +0000"
@@ -872,12 +861,6 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:23:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_pickaxe": "2024-12-11 01:23:18 +0000"
     },
     "done": true
   },
@@ -896,6 +879,72 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 01:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-11 01:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-11 01:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-11 01:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-12 02:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-12 02:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-12 02:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-12 02:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-12 02:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-12 02:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-12 02:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-12 02:47:12 +0000"
     },
     "done": true
   },

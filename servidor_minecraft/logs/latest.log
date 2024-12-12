@@ -30,3 +30,8 @@
 [02:36:20] [Server thread/INFO]: malefumacrack joined the game
 [02:38:07] [Server thread/INFO]: Jobelmax757[/[0:0:0:0:0:0:0:1%0]:59410] logged in with entity id 1703 at (-310.2500358177537, 95.0, -5.726483131049227)
 [02:38:07] [Server thread/INFO]: Jobelmax757 joined the game
+[02:49:18] [Server thread/INFO]: malefumacrack lost connection: You logged in from another location
+[02:49:18] [Server thread/INFO]: malefumacrack left the game
+[02:49:18] [Server thread/WARN]: handleDisconnection() called twice
+[02:49:19] [Server thread/INFO]: malefumacrack[/[0:0:0:0:0:0:0:1%0]:48008] logged in with entity id 11585 at (-191.39587116499237, 119.0, -363.6413199710112)
+[02:49:19] [Server thread/INFO]: malefumacrack joined the game
