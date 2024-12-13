@@ -189,3 +189,20 @@
 [04:29:02] [Server thread/INFO]: [Not Secure] <Sammy757z> traigo herro
 [04:29:17] [Server thread/INFO]: Sammy757z has made the advancement [Cover Me with Diamonds]
 [04:39:39] [Server thread/INFO]: Sammy757z has made the advancement [Sneak 100]
+[04:50:54] [Server thread/INFO]: TavyronTujax lost connection: Disconnected
+[04:50:54] [Server thread/INFO]: TavyronTujax left the game
+[04:51:30] [Server thread/INFO]: Jobelmax757 lost connection: Disconnected
+[04:51:30] [Server thread/INFO]: Jobelmax757 left the game
+[04:51:33] [Server thread/INFO]: Sammy757z lost connection: Disconnected
+[04:51:33] [Server thread/INFO]: Sammy757z left the game
+[04:51:39] [Server thread/INFO]: Stopping the server
+[04:51:39] [Server thread/INFO]: Stopping server
+[04:51:39] [Server thread/INFO]: Saving players
+[04:51:39] [Server thread/INFO]: Saving worlds
+[04:51:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:51:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:51:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:51:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:51:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:51:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:51:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
