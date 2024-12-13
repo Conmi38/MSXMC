@@ -1,91 +1,91 @@
-[02:29:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:29:43] [ServerMain/INFO]: Loaded 7 recipes
-[02:29:44] [ServerMain/INFO]: Loaded 1271 advancements
-[02:29:44] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[02:29:44] [Server thread/INFO]: Loading properties
-[02:29:44] [Server thread/INFO]: Default game type: SURVIVAL
-[02:29:44] [Server thread/INFO]: Generating keypair
-[02:29:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:29:44] [Server thread/INFO]: Using epoll channel type
-[02:29:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:29:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:29:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:29:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:29:44] [Server thread/INFO]: Preparing level "world"
-[02:29:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:29:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:29:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:29:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:29:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:29:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:29:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:29:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:29:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:29:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:29:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:29:53] [Worker-Main-2/INFO]: Preparing spawn area: 25%
-[02:29:53] [Server thread/INFO]: Time elapsed: 5434 ms
-[02:29:53] [Server thread/INFO]: Done (8.643s)! For help, type "help"
-[02:36:20] [Server thread/INFO]: malefumacrack[/[0:0:0:0:0:0:0:1%0]:58066] logged in with entity id 84 at (-335.0543297516338, 95.9375, -4.2423108809978425)
-[02:36:20] [Server thread/INFO]: malefumacrack joined the game
-[02:38:07] [Server thread/INFO]: Jobelmax757[/[0:0:0:0:0:0:0:1%0]:59410] logged in with entity id 1703 at (-310.2500358177537, 95.0, -5.726483131049227)
-[02:38:07] [Server thread/INFO]: Jobelmax757 joined the game
-[02:49:18] [Server thread/INFO]: malefumacrack lost connection: You logged in from another location
-[02:49:18] [Server thread/INFO]: malefumacrack left the game
-[02:49:18] [Server thread/WARN]: handleDisconnection() called twice
-[02:49:19] [Server thread/INFO]: malefumacrack[/[0:0:0:0:0:0:0:1%0]:48008] logged in with entity id 11585 at (-191.39587116499237, 119.0, -363.6413199710112)
-[02:49:19] [Server thread/INFO]: malefumacrack joined the game
-[02:51:58] [Server thread/INFO]: [Not Secure] <Jobelmax757> THOSE KNOW
-[02:52:05] [Server thread/INFO]: [Not Secure] <malefumacrack> those who knows💀💀
-[02:52:25] [Server thread/INFO]: [Not Secure] <malefumacrack> mango + hawk twah + sigma
-[02:52:45] [Server thread/INFO]: TavyronTujax[/[0:0:0:0:0:0:0:1%0]:39226] logged in with entity id 12960 at (-6.612263290918946, 78.0, -428.69999998807907)
-[02:52:45] [Server thread/INFO]: TavyronTujax joined the game
-[02:56:06] [Server thread/INFO]: [Not Secure] <malefumacrack> smartschoolboy
-[03:00:36] [Server thread/INFO]: [Not Secure] <malefumacrack> t
-[03:00:50] [Server thread/INFO]: [Not Secure] <Jobelmax757> WEDEWSWEWE
-[03:01:29] [Server thread/INFO]: [Not Secure] <TavyronTujax> depilacion de anillo a mordisco
-[03:03:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1, y=82, z=-442} hx{x=2, y=81, z=-442}
-[03:09:27] [Server thread/INFO]: malefumacrack lost connection: You logged in from another location
-[03:09:27] [Server thread/INFO]: malefumacrack left the game
-[03:09:28] [Server thread/INFO]: malefumacrack[/[0:0:0:0:0:0:0:1%0]:48596] logged in with entity id 19589 at (1.4135901404060287, 82.0, -430.1384991390125)
-[03:09:28] [Server thread/INFO]: malefumacrack joined the game
-[03:21:10] [Server thread/INFO]: malefumacrack lost connection: You logged in from another location
-[03:21:10] [Server thread/INFO]: malefumacrack left the game
-[03:21:11] [Server thread/INFO]: malefumacrack[/[0:0:0:0:0:0:0:1%0]:42140] logged in with entity id 24329 at (-218.55427910322098, 120.0, -394.1157428912725)
-[03:21:11] [Server thread/INFO]: malefumacrack joined the game
-[03:25:41] [Server thread/INFO]: Jobelmax757 lost connection: Timed out
-[03:25:41] [Server thread/INFO]: Jobelmax757 left the game
-[03:25:55] [Server thread/INFO]: malefumacrack lost connection: You logged in from another location
-[03:25:55] [Server thread/INFO]: malefumacrack left the game
-[03:25:56] [Server thread/INFO]: malefumacrack[/[0:0:0:0:0:0:0:1%0]:59560] logged in with entity id 26203 at (1.85228827588824, 82.0, -433.5726239063441)
-[03:25:56] [Server thread/INFO]: malefumacrack joined the game
-[03:26:09] [Server thread/INFO]: malefumacrack lost connection: You logged in from another location
-[03:26:09] [Server thread/INFO]: malefumacrack left the game
-[03:26:10] [Server thread/INFO]: malefumacrack[/[0:0:0:0:0:0:0:1%0]:59772] logged in with entity id 26249 at (3.5429281464365676, 82.0, -430.69682225909435)
-[03:26:10] [Server thread/INFO]: malefumacrack joined the game
-[03:26:33] [Server thread/INFO]: TavyronTujax lost connection: Timed out
-[03:26:33] [Server thread/INFO]: TavyronTujax left the game
-[03:26:42] [Server thread/INFO]: TavyronTujax[/[0:0:0:0:0:0:0:1%0]:39328] logged in with entity id 26350 at (-2.5, 82.0, -429.5)
-[03:26:42] [Server thread/INFO]: TavyronTujax joined the game
-[03:27:02] [Server thread/INFO]: Jobelmax757[/[0:0:0:0:0:0:0:1%0]:37344] logged in with entity id 26423 at (187.69999998807907, 89.0, -370.69999998807907)
-[03:27:02] [Server thread/INFO]: Jobelmax757 joined the game
-[03:57:48] [Server thread/INFO]: TavyronTujax has made the advancement [Take Aim]
-[04:07:28] [Server thread/INFO]: malefumacrack lost connection: Timed out
-[04:07:28] [Server thread/INFO]: malefumacrack left the game
-[04:10:36] [Server thread/INFO]: Jobelmax757 lost connection: Timed out
-[04:10:36] [Server thread/INFO]: Jobelmax757 left the game
-[04:10:45] [Server thread/INFO]: TavyronTujax lost connection: Timed out
-[04:10:45] [Server thread/INFO]: TavyronTujax left the game
-[04:11:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:11:09] [Server thread/INFO]: ststop<--[HERE]
-[04:11:11] [Server thread/INFO]: Stopping the server
-[04:11:11] [Server thread/INFO]: Stopping server
-[04:11:11] [Server thread/INFO]: Saving players
-[04:11:11] [Server thread/INFO]: Saving worlds
-[04:11:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:11:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:11:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:23:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:23:50] [ServerMain/INFO]: Loaded 7 recipes
+[03:23:50] [ServerMain/INFO]: Loaded 1271 advancements
+[03:23:51] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[03:23:51] [Server thread/INFO]: Loading properties
+[03:23:51] [Server thread/INFO]: Default game type: SURVIVAL
+[03:23:51] [Server thread/INFO]: Generating keypair
+[03:23:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:23:51] [Server thread/INFO]: Using epoll channel type
+[03:23:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:23:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:23:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:23:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:23:51] [Server thread/INFO]: Preparing level "world"
+[03:23:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:23:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:23:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:23:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:23:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 56%
+[03:23:59] [Server thread/INFO]: Time elapsed: 5340 ms
+[03:23:59] [Server thread/INFO]: Done (8.000s)! For help, type "help"
+[03:24:01] [Server thread/INFO]: malefumacrack[/127.148.141.124:46651] logged in with entity id 84 at (-170.1304770252144, 83.0, -390.06763913997975)
+[03:24:01] [Server thread/INFO]: malefumacrack joined the game
+[03:24:05] [Server thread/INFO]: Jobelmax757[/127.46.249.115:46447] logged in with entity id 423 at (174.26663704978964, 86.9375, -351.14511538142295)
+[03:24:05] [Server thread/INFO]: Jobelmax757 joined the game
+[03:26:35] [Server thread/INFO]: TavyronTujax[/127.46.249.115:40697] logged in with entity id 1437 at (-3.646293056558181, 82.0, -430.1382602229479)
+[03:26:35] [Server thread/INFO]: TavyronTujax joined the game
+[03:26:42] [Server thread/INFO]: [Not Secure] <malefumacrack> por cuota y por ota
+[03:27:41] [Server thread/INFO]: malefumacrack was slain by TavyronTujax
+[03:28:26] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 3 targets]
+[03:28:43] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 3 targets]
+[03:29:05] [Server thread/INFO]: [Jobelmax757: Applied effect Wither to 3 targets]
+[03:29:17] [Server thread/INFO]: [Jobelmax757: Applied effect Wither to 3 targets]
+[03:29:23] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 3 targets]
+[03:29:36] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
+[03:29:41] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
+[03:29:42] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:29:43] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:29:51] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 3 targets]
+[03:29:53] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
+[03:29:54] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.030501467558849527,10.420000076293945,0.2108813970315282
+[03:29:54] [Server thread/WARN]: malefumacrack moved too quickly! 0.1540059920147705,17.311902263066685,0.5493665302000181
+[03:29:55] [Server thread/WARN]: Jobelmax757 moved too quickly! -0.061697794638291725,10.420000076293945,0.39543334590075574
+[03:29:56] [Server thread/WARN]: Jobelmax757 moved too quickly! -0.1322886159207428,10.420000076293945,0.3209786024166874
+[03:30:05] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 3 targets]
+[03:30:06] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
+[03:30:08] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:30:09] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:30:09] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:30:12] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
+[03:30:13] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:30:13] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:30:14] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:30:16] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
+[03:30:18] [Server thread/WARN]: TavyronTujax moved too quickly! 0.027172359168343263,10.420000076293945,-0.14110067867778753
+[03:30:18] [Server thread/WARN]: TavyronTujax moved too quickly! 0.11717966466427043,10.420000076293945,0.05617169959560897
+[03:30:19] [Server thread/WARN]: TavyronTujax moved too quickly! 0.17761100029713273,10.420000076293945,-0.07991115534332494
+[03:30:20] [Server thread/WARN]: TavyronTujax moved too quickly! 0.0,10.133200271987917,0.0
+[03:30:35] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 3 targets]
+[03:30:39] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
+[03:30:47] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
+[03:30:54] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,-16.83568137259445,0.0
+[03:31:01] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
+[03:31:02] [Server thread/WARN]: malefumacrack moved too quickly! -0.540958892161683,10.420000076293945,-0.2674000273647721
+[03:31:02] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:31:02] [Server thread/WARN]: malefumacrack moved too quickly! -0.0063092549944840925,10.420000076293945,-0.0037864550401991437
+[03:31:27] [Server thread/INFO]: malefumacrack lost connection: Disconnected
+[03:31:27] [Server thread/INFO]: malefumacrack left the game
+[03:31:35] [Server thread/INFO]: malefumacrack[/127.148.141.124:37073] logged in with entity id 3043 at (-141.0287244536278, 66.0, -438.30000001192093)
+[03:31:35] [Server thread/INFO]: malefumacrack joined the game
+[03:31:41] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
+[03:31:43] [Server thread/WARN]: TavyronTujax moved too quickly! 0.47436259442945716,10.420000076293945,0.06926866184420533
+[03:31:48] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
+[03:31:48] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:31:49] [Server thread/WARN]: malefumacrack moved too quickly! -0.057543224345067756,20.553200348281862,0.3157883890410176
+[03:31:49] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:31:49] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:31:50] [Server thread/WARN]: malefumacrack moved too quickly! -0.12189624119804421,18.88345413386564,0.30160291463545263
+[03:31:50] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:31:50] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:31:51] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
+[03:31:52] [Server thread/INFO]: malefumacrack fell from a high place
+[03:32:00] [Server thread/INFO]: [Not Secure] <TavyronTujax> IIIIIIAAA
+[03:32:09] [Server thread/INFO]: [Jobelmax757: Removed every effect from 3 targets]
