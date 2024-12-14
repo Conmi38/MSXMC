@@ -1,208 +1,55 @@
-[03:23:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:23:50] [ServerMain/INFO]: Loaded 7 recipes
-[03:23:50] [ServerMain/INFO]: Loaded 1271 advancements
-[03:23:51] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[03:23:51] [Server thread/INFO]: Loading properties
-[03:23:51] [Server thread/INFO]: Default game type: SURVIVAL
-[03:23:51] [Server thread/INFO]: Generating keypair
-[03:23:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:23:51] [Server thread/INFO]: Using epoll channel type
-[03:23:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:23:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:23:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:23:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:23:51] [Server thread/INFO]: Preparing level "world"
-[03:23:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:23:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:23:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:23:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:23:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 56%
-[03:23:59] [Server thread/INFO]: Time elapsed: 5340 ms
-[03:23:59] [Server thread/INFO]: Done (8.000s)! For help, type "help"
-[03:24:01] [Server thread/INFO]: malefumacrack[/127.148.141.124:46651] logged in with entity id 84 at (-170.1304770252144, 83.0, -390.06763913997975)
-[03:24:01] [Server thread/INFO]: malefumacrack joined the game
-[03:24:05] [Server thread/INFO]: Jobelmax757[/127.46.249.115:46447] logged in with entity id 423 at (174.26663704978964, 86.9375, -351.14511538142295)
-[03:24:05] [Server thread/INFO]: Jobelmax757 joined the game
-[03:26:35] [Server thread/INFO]: TavyronTujax[/127.46.249.115:40697] logged in with entity id 1437 at (-3.646293056558181, 82.0, -430.1382602229479)
-[03:26:35] [Server thread/INFO]: TavyronTujax joined the game
-[03:26:42] [Server thread/INFO]: [Not Secure] <malefumacrack> por cuota y por ota
-[03:27:41] [Server thread/INFO]: malefumacrack was slain by TavyronTujax
-[03:28:26] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 3 targets]
-[03:28:43] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 3 targets]
-[03:29:05] [Server thread/INFO]: [Jobelmax757: Applied effect Wither to 3 targets]
-[03:29:17] [Server thread/INFO]: [Jobelmax757: Applied effect Wither to 3 targets]
-[03:29:23] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 3 targets]
-[03:29:36] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
-[03:29:41] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
-[03:29:42] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:29:43] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:29:51] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 3 targets]
-[03:29:53] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
-[03:29:54] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.030501467558849527,10.420000076293945,0.2108813970315282
-[03:29:54] [Server thread/WARN]: malefumacrack moved too quickly! 0.1540059920147705,17.311902263066685,0.5493665302000181
-[03:29:55] [Server thread/WARN]: Jobelmax757 moved too quickly! -0.061697794638291725,10.420000076293945,0.39543334590075574
-[03:29:56] [Server thread/WARN]: Jobelmax757 moved too quickly! -0.1322886159207428,10.420000076293945,0.3209786024166874
-[03:30:05] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 3 targets]
-[03:30:06] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
-[03:30:08] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:30:09] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:30:09] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:30:12] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
-[03:30:13] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:30:13] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:30:14] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:30:16] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
-[03:30:18] [Server thread/WARN]: TavyronTujax moved too quickly! 0.027172359168343263,10.420000076293945,-0.14110067867778753
-[03:30:18] [Server thread/WARN]: TavyronTujax moved too quickly! 0.11717966466427043,10.420000076293945,0.05617169959560897
-[03:30:19] [Server thread/WARN]: TavyronTujax moved too quickly! 0.17761100029713273,10.420000076293945,-0.07991115534332494
-[03:30:20] [Server thread/WARN]: TavyronTujax moved too quickly! 0.0,10.133200271987917,0.0
-[03:30:35] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 3 targets]
-[03:30:39] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
-[03:30:47] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
-[03:30:54] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,-16.83568137259445,0.0
-[03:31:01] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
-[03:31:02] [Server thread/WARN]: malefumacrack moved too quickly! -0.540958892161683,10.420000076293945,-0.2674000273647721
-[03:31:02] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:31:02] [Server thread/WARN]: malefumacrack moved too quickly! -0.0063092549944840925,10.420000076293945,-0.0037864550401991437
-[03:31:27] [Server thread/INFO]: malefumacrack lost connection: Disconnected
-[03:31:27] [Server thread/INFO]: malefumacrack left the game
-[03:31:35] [Server thread/INFO]: malefumacrack[/127.148.141.124:37073] logged in with entity id 3043 at (-141.0287244536278, 66.0, -438.30000001192093)
-[03:31:35] [Server thread/INFO]: malefumacrack joined the game
-[03:31:41] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
-[03:31:43] [Server thread/WARN]: TavyronTujax moved too quickly! 0.47436259442945716,10.420000076293945,0.06926866184420533
-[03:31:48] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 3 targets]
-[03:31:48] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:31:49] [Server thread/WARN]: malefumacrack moved too quickly! -0.057543224345067756,20.553200348281862,0.3157883890410176
-[03:31:49] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:31:49] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:31:50] [Server thread/WARN]: malefumacrack moved too quickly! -0.12189624119804421,18.88345413386564,0.30160291463545263
-[03:31:50] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:31:50] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:31:51] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.420000076293945,0.0
-[03:31:52] [Server thread/INFO]: malefumacrack fell from a high place
-[03:32:00] [Server thread/INFO]: [Not Secure] <TavyronTujax> IIIIIIAAA
-[03:32:09] [Server thread/INFO]: [Jobelmax757: Removed every effect from 3 targets]
-[03:42:01] [Server thread/INFO]: Jobelmax757 has made the advancement [Best Friends Forever]
-[03:53:21] [Server thread/INFO]: [Not Secure] <TavyronTujax> MOTEL...
-[03:53:23] [Server thread/INFO]: [Not Secure] <TavyronTujax> JUNTOS
-[03:55:12] [Server thread/INFO]: Sammy757z[/127.46.249.115:55187] logged in with entity id 11364 at (-312.9003277881836, 96.0, -6.930472671337093)
-[03:55:12] [Server thread/INFO]: Sammy757z joined the game
-[03:57:15] [Server thread/INFO]: [Not Secure] <TavyronTujax> JOEL YA HIZO MAQUINA DE PIOLA?
-[03:57:21] [Server thread/INFO]: Sammy757z has made the advancement [Acquire Hardware]
-[03:58:20] [Server thread/INFO]: [Not Secure] <Sammy757z> y lo feo tienen bien gramde
-[03:59:30] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-308, y=99, z=14} hx{x=-308, y=97, z=15}
-[03:59:30] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-308, y=99, z=14} hx{x=-308, y=97, z=15}
-[03:59:32] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-306, y=99, z=20} hx{x=-306, y=97, z=22}
-[03:59:32] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-306, y=99, z=20} hx{x=-306, y=97, z=22}
-[03:59:35] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-304, y=98, z=24} hx{x=-304, y=96, z=25}
-[03:59:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-305, y=98, z=33} hx{x=-306, y=96, z=34}
-[03:59:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-305, y=98, z=33} hx{x=-306, y=96, z=34}
-[04:00:53] [Server thread/INFO]: Sammy757z has made the advancement [The Parrots and the Bats]
-[04:02:38] [Server thread/INFO]: Villager cev['Farmer'/434, l='ServerLevel[world]', x=156.03, y=63.00, z=-305.58] died, message: 'Farmer was slain by Zombie'
-[04:07:23] [Server thread/INFO]: [Not Secure] <Sammy757z> y la casa?
-[04:07:40] [Server thread/INFO]: [Not Secure] <Jobelmax757> el motel pa?¡
-[04:07:46] [Server thread/INFO]: [Not Secure] <Sammy757z> ajajajja
-[04:07:52] [Server thread/INFO]: [Not Secure] <Jobelmax757> motel contigoo..}
-[04:08:09] [Server thread/INFO]: [Not Secure] <malefumacrack> 😡😡😡💢💢💢
-[04:08:19] [Server thread/INFO]: [Not Secure] <Sammy757z> 🥚
-[04:08:37] [Server thread/INFO]: [Not Secure] <TavyronTujax> ♦♠
-[04:08:44] [Server thread/INFO]: [Not Secure] <Sammy757z> 🗣️🔥
-[04:08:46] [Server thread/INFO]: [Not Secure] <Jobelmax757> 😊😊😊😊😂🤣≹≲≲≺⊭⊮⊻⋟⋟ăăÅ
-[04:08:53] [Server thread/INFO]: [Not Secure] <Sammy757z> 💀
-[04:08:54] [Server thread/INFO]: [Not Secure] <Jobelmax757> 🥵🥵
-[04:08:58] [Server thread/INFO]: [Not Secure] <malefumacrack> 👿👿👿👿
-[04:09:03] [Server thread/INFO]: [Not Secure] <Sammy757z> 🔥🔥
-[04:09:06] [Server thread/INFO]: [Not Secure] <Jobelmax757> 👽👽👻👻🥳🥳🤬🤬😱😰🤒👾🧐🧐
-[04:09:11] [Server thread/INFO]: [Not Secure] <Sammy757z> 🕳️🕳️💤
-[04:09:27] [Server thread/INFO]: [Not Secure] <Sammy757z> 🤪😜😝
-[04:09:29] [Server thread/INFO]: malefumacrack was slain by TavyronTujax
-[04:09:33] [Server thread/INFO]: [Not Secure] <Jobelmax757> vitcotor 🗣🗣🗣🗣
-[04:09:39] [Server thread/INFO]: [Not Secure] <Sammy757z> JAJAJAJAJAJAJAAJAJAJAJAJAJAJAJJAJAJAJAJAJAJAJJAJAJAJAJA
-[04:10:08] [Server thread/INFO]: [Not Secure] <Sammy757z> pasa coordenada del motel
-[04:10:21] [Server thread/INFO]: [Not Secure] <Jobelmax757> coordenadas lo que hay cerca del motel contigo
-[04:10:32] [Server thread/INFO]: [Not Secure] <Sammy757z> JAJAJAJAJ
-[04:10:36] [Server thread/INFO]: [Not Secure] <Jobelmax757> 😥😥😥😥
-[04:10:42] [Server thread/INFO]: [Not Secure] <Sammy757z> 🤯🤯
-[04:11:02] [Server thread/INFO]: [Not Secure] <Sammy757z> 🙉
-[04:11:06] [Server thread/INFO]: [Not Secure] <Jobelmax757> 💘💝MOTEL CONTIGO💘💝
-[04:11:15] [Server thread/INFO]: [Not Secure] <Sammy757z> 👻
-[04:11:21] [Server thread/INFO]: [Not Secure] <Jobelmax757> ☢☢☢☢☢
-[04:11:26] [Server thread/INFO]: [Not Secure] <Sammy757z> 🥸
-[04:11:40] [Server thread/INFO]: [Not Secure] <Sammy757z> 🚇
-[04:11:40] [Server thread/INFO]: [Not Secure] <malefumacrack> 🤖🤖🤮🍁😛🤤
-[04:11:41] [Server thread/INFO]: [Not Secure] <Jobelmax757> ⚜⚜⚜⚜⚜⚜⚜⚜⚜⚜⚜⚜⚜⚜
-[04:11:51] [Server thread/INFO]: [Not Secure] <Sammy757z> 🎇
-[04:12:01] [Server thread/INFO]: [Not Secure] <Jobelmax757> 🕐🕑🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛🕜🕝🕞🕟🕠🕡🕢🕣🕤🕥🕦🕧🕧
-[04:12:16] [Server thread/INFO]: [Not Secure] <Sammy757z> 📞🔌
-[04:12:23] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to 4 targets]
-[04:12:33] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 4 targets]
-[04:12:42] [Server thread/INFO]: [Not Secure] <Sammy757z> 🚭
-[04:12:45] [Server thread/INFO]: [Jobelmax757: Applied effect Jump Boost to 4 targets]
-[04:12:52] [Server thread/INFO]: [Not Secure] <Sammy757z> nderako
-[04:12:54] [Server thread/INFO]: malefumacrack lost connection: Disconnected
-[04:12:54] [Server thread/INFO]: malefumacrack left the game
-[04:12:59] [Server thread/INFO]: malefumacrack[/127.148.141.124:54765] logged in with entity id 23255 at (-61.944241337691615, 80.69861973595283, -467.25280632363183)
-[04:12:59] [Server thread/INFO]: malefumacrack joined the game
-[04:13:00] [Server thread/INFO]: malefumacrack fell from a high place
-[04:13:19] [Server thread/INFO]: [Not Secure] <Sammy757z> mongolito cuando salis se cancela la posion
-[04:13:29] [Server thread/INFO]: [Jobelmax757: Removed every effect from 4 targets]
-[04:13:39] [Server thread/INFO]: [Jobelmax757: Set the weather to rain & thunder]
-[04:13:49] [Server thread/INFO]: [Not Secure] <Sammy757z> pasa la cordenada del motel contigo
-[04:14:04] [Server thread/INFO]: [Not Secure] <Jobelmax757> veni aca a la aldea o que
-[04:14:06] [Server thread/INFO]: [Not Secure] <Jobelmax757> 181
-[04:14:12] [Server thread/INFO]: [Not Secure] <Jobelmax757> -363
-[04:14:59] [Server thread/INFO]: [Not Secure] <Sammy757z> tu pielll tu colorrr
-[04:15:09] [Server thread/INFO]: [Not Secure] <Sammy757z> duerman pues
-[04:18:28] [Server thread/INFO]: [Not Secure] <malefumacrack> lantia
-[04:19:43] [Server thread/INFO]: [Not Secure] <Jobelmax757> traeme madera en ve de estar haciendo el aguado ahi
-[04:19:56] [Server thread/INFO]: [Not Secure] <Sammy757z> acá tenes
-[04:23:14] [Server thread/INFO]: malefumacrack has made the advancement [Take Aim]
-[04:23:15] [Server thread/INFO]: malefumacrack was slain by Zombie
-[04:23:23] [Server thread/INFO]: [Not Secure] <Sammy757z> JAJAJAJAJAJ
-[04:23:41] [Server thread/INFO]: [Not Secure] <Jobelmax757> tene hierro?
-[04:23:45] [Server thread/INFO]: [Not Secure] <Sammy757z> madera de cada colorrrr
-[04:23:55] [Server thread/INFO]: malefumacrack lost connection: Disconnected
-[04:23:55] [Server thread/INFO]: malefumacrack left the game
-[04:24:46] [Server thread/INFO]: [Not Secure] <Jobelmax757> chamigo para que pan no ves que falta cama
-[04:24:49] [Server thread/INFO]: [Not Secure] <Jobelmax757> sale todo fuego aca
-[04:25:10] [Server thread/INFO]: [Not Secure] <Sammy757z> voy más madera
-[04:25:20] [Server thread/INFO]: [Not Secure] <Jobelmax757> hierro lo que necesito para tradearle al aldeano
-[04:25:31] [Server thread/INFO]: [Not Secure] <Jobelmax757> ndi mimir
-[04:26:10] [Server thread/INFO]: [Not Secure] <Sammy757z> en mi cofle tengo 18 de heerro
-[04:26:38] [Server thread/INFO]: [Not Secure] <Sammy757z> Ramiro de picho?
-[04:26:53] [Server thread/INFO]: [Not Secure] <Jobelmax757> y si le apagaron todo a
-[04:26:54] [Server thread/INFO]: [Not Secure] <Jobelmax757> ya
-[04:27:02] [Server thread/INFO]: [Not Secure] <Sammy757z> ndi
-[04:27:26] [Server thread/INFO]: [Not Secure] <Sammy757z> omida para ir a la mina
-[04:27:50] [Server thread/INFO]: [Not Secure] <Sammy757z> comoda
-[04:27:55] [Server thread/INFO]: [Not Secure] <Sammy757z> comida
-[04:28:26] [Server thread/INFO]: Sammy757z has made the advancement [What a Deal!]
-[04:28:48] [Server thread/INFO]: Jobelmax757 has made the advancement [Cover Me with Diamonds]
-[04:28:59] [Server thread/INFO]: [Not Secure] <Jobelmax757> toma ian
-[04:29:02] [Server thread/INFO]: [Not Secure] <Sammy757z> traigo herro
-[04:29:17] [Server thread/INFO]: Sammy757z has made the advancement [Cover Me with Diamonds]
-[04:39:39] [Server thread/INFO]: Sammy757z has made the advancement [Sneak 100]
-[04:50:54] [Server thread/INFO]: TavyronTujax lost connection: Disconnected
-[04:50:54] [Server thread/INFO]: TavyronTujax left the game
-[04:51:30] [Server thread/INFO]: Jobelmax757 lost connection: Disconnected
-[04:51:30] [Server thread/INFO]: Jobelmax757 left the game
-[04:51:33] [Server thread/INFO]: Sammy757z lost connection: Disconnected
-[04:51:33] [Server thread/INFO]: Sammy757z left the game
-[04:51:39] [Server thread/INFO]: Stopping the server
-[04:51:39] [Server thread/INFO]: Stopping server
-[04:51:39] [Server thread/INFO]: Saving players
-[04:51:39] [Server thread/INFO]: Saving worlds
-[04:51:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:51:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:51:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:51:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:51:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:51:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:51:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:20:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:20:15] [ServerMain/INFO]: Loaded 7 recipes
+[23:20:15] [ServerMain/INFO]: Loaded 1271 advancements
+[23:20:16] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[23:20:16] [Server thread/INFO]: Loading properties
+[23:20:16] [Server thread/INFO]: Default game type: SURVIVAL
+[23:20:16] [Server thread/INFO]: Generating keypair
+[23:20:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:20:17] [Server thread/INFO]: Using epoll channel type
+[23:20:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:20:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:20:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:20:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:20:17] [Server thread/INFO]: Preparing level "world"
+[23:20:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:20:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:20:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:20:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:20:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:20:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:20:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:20:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:20:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:20:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:20:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:20:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:20:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:20:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:20:27] [Worker-Main-1/INFO]: Preparing spawn area: 48%
+[23:20:27] [Server thread/INFO]: Time elapsed: 6858 ms
+[23:20:27] [Server thread/INFO]: Done (10.558s)! For help, type "help"
+[23:21:32] [Server thread/INFO]: malefumacrack[/127.148.141.124:53209] logged in with entity id 183 at (-36.17843311968379, 79.0, -448.8200562442947)
+[23:21:32] [Server thread/INFO]: malefumacrack joined the game
+[23:22:45] [Server thread/INFO]: Jobelmax757[/127.46.249.115:50281] logged in with entity id 802 at (180.69999998807907, 86.9375, -349.30000001192093)
+[23:22:45] [Server thread/INFO]: Jobelmax757 joined the game
+[23:23:07] [Server thread/INFO]: Sammy757z[/127.46.249.115:50939] logged in with entity id 1071 at (51.61782227022485, 95.0, -75.65977848105858)
+[23:23:07] [Server thread/INFO]: Sammy757z joined the game
+[23:23:35] [Server thread/INFO]: SANLORENZO[/127.68.242.207:37243] logged in with entity id 1355 at (0.5, 101.0, 6.5)
+[23:23:35] [Server thread/INFO]: SANLORENZO joined the game
+[23:23:46] [Server thread/INFO]: [Jobelmax757: Teleported SANLORENZO to Jobelmax757]
+[23:26:19] [Server thread/INFO]: Sammy757z lost connection: Disconnected
+[23:26:19] [Server thread/INFO]: Sammy757z left the game
+[23:27:54] [Server thread/INFO]: [Not Secure] <Jobelmax757> mbaeppio
+[23:27:59] [Server thread/INFO]: [Not Secure] <malefumacrack> llamada por guasa
+[23:28:03] [Server thread/INFO]: [Not Secure] <Jobelmax757> ndira
+[23:28:09] [Server thread/INFO]: [Not Secure] <Jobelmax757> vamo a esperar no ma que funque el discord
+[23:28:13] [Server thread/INFO]: [Not Secure] <malefumacrack> 😪😪😪
+[23:28:26] [Server thread/INFO]: [Not Secure] <malefumacrack> carajo
+[23:29:00] [Server thread/INFO]: [Not Secure] <Jobelmax757> CHAVAAL
+[23:29:02] [Server thread/INFO]: [Not Secure] <Jobelmax757> EN PONIS
+[23:29:07] [Server thread/INFO]: SANLORENZO was slain by Spider
+[23:29:10] [Server thread/INFO]: [Not Secure] <Jobelmax757> NDII
+[23:29:11] [Server thread/INFO]: [Not Secure] <malefumacrack> ??
+[23:29:19] [Server thread/INFO]: [Not Secure] <malefumacrack> mbae??
+[23:29:57] [Server thread/INFO]: [Jobelmax757: Teleported SANLORENZO to Jobelmax757]
