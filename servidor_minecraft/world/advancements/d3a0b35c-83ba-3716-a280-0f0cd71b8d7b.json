@@ -7,14 +7,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2024-12-15 01:49:22 +0000",
       "minecraft:savanna_plateau": "2024-12-11 00:38:46 +0000",
       "minecraft:stony_peaks": "2024-12-14 23:36:08 +0000",
       "minecraft:forest": "2024-12-10 23:49:59 +0000",
-      "minecraft:deep_dark": "2024-12-13 04:33:43 +0000",
       "minecraft:sparse_jungle": "2024-12-10 23:50:34 +0000",
-      "minecraft:cherry_grove": "2024-12-11 00:38:55 +0000",
       "minecraft:river": "2024-12-11 00:52:11 +0000",
       "minecraft:dripstone_caves": "2024-12-11 00:59:06 +0000",
+      "minecraft:deep_dark": "2024-12-13 04:33:43 +0000",
+      "minecraft:cherry_grove": "2024-12-11 00:38:55 +0000",
+      "minecraft:sunflower_plains": "2024-12-15 01:53:10 +0000",
       "minecraft:savanna": "2024-12-11 00:38:23 +0000",
       "minecraft:bamboo_jungle": "2024-12-10 23:52:05 +0000",
       "minecraft:plains": "2024-12-11 00:01:42 +0000"
@@ -369,7 +371,8 @@
       "bread": "2024-12-11 00:18:01 +0000",
       "rotten_flesh": "2024-12-11 00:10:23 +0000",
       "melon_slice": "2024-12-10 23:57:01 +0000",
-      "pumpkin_pie": "2024-12-13 04:33:43 +0000"
+      "pumpkin_pie": "2024-12-13 04:33:43 +0000",
+      "golden_carrot": "2024-12-15 01:49:12 +0000"
     },
     "done": false
   },
@@ -1321,6 +1324,60 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-15 00:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-15 01:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-15 01:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-12-15 01:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-15 01:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-15 01:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-15 01:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-15 01:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-15 01:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-15 01:51:09 +0000"
     },
     "done": true
   },

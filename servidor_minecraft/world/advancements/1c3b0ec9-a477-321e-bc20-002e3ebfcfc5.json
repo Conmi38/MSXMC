@@ -1656,9 +1656,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_flint": "2024-12-15 01:18:10 +0000"
+      "has_water_bucket": "2024-12-14 23:56:04 +0000"
     },
     "done": true
   },
@@ -1674,13 +1674,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
-      "has_flint": "2024-12-15 01:18:10 +0000"
+      "has_honeycomb": "2024-12-15 00:45:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2024-12-15 00:45:38 +0000"
     },
@@ -1692,21 +1692,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-12-14 23:56:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-15 01:16:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_honeycomb": "2024-12-15 00:45:38 +0000"
+      "has_flint": "2024-12-15 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-15 01:18:10 +0000"
     },
     "done": true
   },
