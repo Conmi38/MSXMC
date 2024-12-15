@@ -1730,6 +1730,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-15 02:19:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 01:29:59 +0000"
@@ -1859,6 +1865,12 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2024-12-15 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-15 02:17:52 +0000"
     },
     "done": true
   },
