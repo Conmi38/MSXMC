@@ -8,6 +8,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2024-12-14 23:37:09 +0000",
+      "minecraft:savanna_plateau": "2024-12-15 00:24:03 +0000",
+      "minecraft:stony_peaks": "2024-12-15 00:24:05 +0000",
       "minecraft:forest": "2024-12-14 23:23:36 +0000",
       "minecraft:deep_dark": "2024-12-15 00:02:35 +0000",
       "minecraft:sparse_jungle": "2024-12-14 23:29:37 +0000",
@@ -717,6 +719,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-15 00:00:44 +0000",
+      "minecraft:enderman": "2024-12-15 00:40:40 +0000",
       "minecraft:spider": "2024-12-14 23:59:07 +0000",
       "minecraft:zombie": "2024-12-14 23:58:56 +0000"
     },
@@ -956,15 +959,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-15 00:07:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-15 00:10:49 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "avoid_vibration": "2024-12-15 00:07:57 +0000"
+      "wheat": "2024-12-15 00:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-15 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-15 00:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-15 00:45:29 +0000"
     },
     "done": true
   },

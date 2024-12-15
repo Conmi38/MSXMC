@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2024-12-12 03:12:14 +0000",
+      "minecraft:savanna_plateau": "2024-12-15 00:24:07 +0000",
       "minecraft:forest": "2024-12-10 23:50:03 +0000",
       "minecraft:deep_dark": "2024-12-11 00:35:31 +0000",
       "minecraft:cherry_grove": "2024-12-12 02:58:26 +0000",
@@ -1815,6 +1816,36 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2024-12-13 04:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-15 00:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-15 00:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-15 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-15 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-15 00:42:18 +0000"
     },
     "done": true
   },

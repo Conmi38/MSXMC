@@ -1154,6 +1154,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:chicken": "2024-12-15 00:45:08 +0000",
       "minecraft:bee": "2024-12-11 01:08:43 +0000"
     },
     "done": false
