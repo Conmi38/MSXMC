@@ -1885,6 +1885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-15 03:19:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2024-12-15 02:08:53 +0000"
