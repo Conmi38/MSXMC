@@ -412,7 +412,8 @@
       "cooked_mutton": "2024-12-11 00:04:56 +0000",
       "potato": "2024-12-11 01:15:49 +0000",
       "cooked_beef": "2024-12-10 23:57:43 +0000",
-      "beef": "2024-12-11 00:28:26 +0000"
+      "beef": "2024-12-11 00:28:26 +0000",
+      "porkchop": "2024-12-15 01:11:35 +0000"
     },
     "done": false
   },
@@ -1655,6 +1656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-15 01:18:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 23:56:44 +0000"
@@ -1667,15 +1674,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-15 01:18:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2024-12-15 00:45:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-15 01:16:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-14 23:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-15 01:16:25 +0000"
     },
     "done": true
   },

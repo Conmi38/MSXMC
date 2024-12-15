@@ -601,6 +601,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-11 01:15:09 +0000",
       "minecraft:enderman": "2024-12-13 03:50:34 +0000",
+      "minecraft:spider": "2024-12-15 01:18:04 +0000",
       "minecraft:zombie": "2024-12-11 00:02:12 +0000",
       "minecraft:creeper": "2024-12-11 00:23:58 +0000"
     },
