@@ -228,3 +228,10 @@
 [02:00:32] [Server thread/INFO]: Jobelmax757 has completed the challenge [Great View From Up Here]
 [02:00:49] [Server thread/INFO]: TavyronTujax lost connection: Disconnected
 [02:00:49] [Server thread/INFO]: TavyronTujax left the game
+[02:02:36] [Server thread/INFO]: Sammy757z lost connection: Disconnected
+[02:02:36] [Server thread/INFO]: Sammy757z left the game
+[02:04:09] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-46, y=89, z=-270} hx{x=-46, y=87, z=-270}
+[02:08:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-51, y=88, z=-260} hx{x=-50, y=87, z=-258}
+[02:08:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-51, y=88, z=-260} hx{x=-50, y=87, z=-258}
+[02:08:34] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-55, y=89, z=-267} hx{x=-55, y=87, z=-268}
+[02:08:36] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-51, y=89, z=-267} hx{x=-50, y=87, z=-267}
