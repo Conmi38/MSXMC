@@ -134,6 +134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:06:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2024-12-16 02:03:09 +0000"
@@ -203,6 +209,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-16 01:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:06:56 +0000"
     },
     "done": true
   },
@@ -287,6 +299,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 01:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:06:56 +0000"
     },
     "done": true
   },
@@ -458,6 +476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:06:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 01:23:25 +0000"
@@ -488,6 +512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:06:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-16 01:13:27 +0000"
@@ -509,6 +539,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-16 01:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:06:56 +0000"
     },
     "done": true
   },
@@ -696,13 +732,20 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-16 01:31:33 +0000",
       "minecraft:spider": "2024-12-16 01:31:22 +0000",
-      "minecraft:zombie": "2024-12-16 01:18:21 +0000"
+      "minecraft:zombie": "2024-12-16 01:18:21 +0000",
+      "minecraft:creeper": "2024-12-16 02:16:31 +0000"
     },
     "done": false
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-16 01:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:06:56 +0000"
     },
     "done": true
   },
@@ -715,6 +758,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-16 01:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:06:56 +0000"
     },
     "done": true
   },
@@ -969,6 +1018,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-12-16 01:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:06:56 +0000"
     },
     "done": true
   },
