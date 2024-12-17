@@ -1,258 +1,101 @@
-[00:50:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:50:31] [ServerMain/INFO]: No existing world data, creating new world
-[00:50:31] [ServerMain/INFO]: Loaded 7 recipes
-[00:50:31] [ServerMain/INFO]: Loaded 1271 advancements
-[00:50:32] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[00:50:32] [Server thread/INFO]: Loading properties
-[00:50:32] [Server thread/INFO]: Default game type: SURVIVAL
-[00:50:32] [Server thread/INFO]: Generating keypair
-[00:50:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:50:32] [Server thread/INFO]: Using epoll channel type
-[00:50:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:50:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:50:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:50:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:50:32] [Server thread/INFO]: Preparing level "world"
-[00:50:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:50:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:50:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:50:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:50:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:50:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:50:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:41] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[00:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[00:50:42] [Worker-Main-1/INFO]: Preparing spawn area: 3%
-[00:50:42] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[00:50:43] [Worker-Main-3/INFO]: Preparing spawn area: 5%
-[00:50:43] [Worker-Main-3/INFO]: Preparing spawn area: 8%
-[00:50:44] [Worker-Main-3/INFO]: Preparing spawn area: 9%
-[00:50:44] [Worker-Main-1/INFO]: Preparing spawn area: 11%
-[00:50:45] [Worker-Main-1/INFO]: Preparing spawn area: 14%
-[00:50:45] [Worker-Main-3/INFO]: Preparing spawn area: 15%
-[00:50:46] [Worker-Main-1/INFO]: Preparing spawn area: 16%
-[00:50:46] [Worker-Main-2/INFO]: Preparing spawn area: 19%
-[00:50:47] [Worker-Main-3/INFO]: Preparing spawn area: 22%
-[00:50:47] [Worker-Main-1/INFO]: Preparing spawn area: 23%
-[00:50:48] [Worker-Main-2/INFO]: Preparing spawn area: 25%
-[00:50:48] [Worker-Main-1/INFO]: Preparing spawn area: 27%
-[00:50:49] [Worker-Main-1/INFO]: Preparing spawn area: 30%
-[00:50:49] [Worker-Main-3/INFO]: Preparing spawn area: 32%
-[00:50:50] [Worker-Main-1/INFO]: Preparing spawn area: 34%
-[00:50:50] [Worker-Main-3/INFO]: Preparing spawn area: 36%
-[00:50:51] [Worker-Main-2/INFO]: Preparing spawn area: 38%
-[00:50:51] [Worker-Main-2/INFO]: Preparing spawn area: 41%
-[00:50:52] [Worker-Main-3/INFO]: Preparing spawn area: 44%
-[00:50:54] [Worker-Main-3/INFO]: Preparing spawn area: 45%
-[00:50:54] [Worker-Main-3/INFO]: Preparing spawn area: 45%
-[00:50:54] [Worker-Main-3/INFO]: Preparing spawn area: 45%
-[00:50:54] [Worker-Main-1/INFO]: Preparing spawn area: 45%
-[00:50:54] [Worker-Main-1/INFO]: Preparing spawn area: 48%
-[00:50:55] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[00:50:55] [Worker-Main-1/INFO]: Preparing spawn area: 53%
-[00:50:56] [Worker-Main-3/INFO]: Preparing spawn area: 55%
-[00:50:56] [Worker-Main-1/INFO]: Preparing spawn area: 57%
-[00:50:57] [Worker-Main-3/INFO]: Preparing spawn area: 61%
-[00:50:57] [Worker-Main-1/INFO]: Preparing spawn area: 64%
-[00:50:58] [Worker-Main-1/INFO]: Preparing spawn area: 67%
-[00:50:58] [Worker-Main-3/INFO]: Preparing spawn area: 69%
-[00:50:59] [Worker-Main-3/INFO]: Preparing spawn area: 71%
-[00:50:59] [Worker-Main-1/INFO]: Preparing spawn area: 74%
-[00:51:00] [Worker-Main-3/INFO]: Preparing spawn area: 78%
-[00:51:00] [Worker-Main-1/INFO]: Preparing spawn area: 81%
-[00:51:01] [Worker-Main-1/INFO]: Preparing spawn area: 83%
-[00:51:01] [Worker-Main-2/INFO]: Preparing spawn area: 86%
-[00:51:02] [Worker-Main-1/INFO]: Preparing spawn area: 89%
-[00:51:02] [Worker-Main-1/INFO]: Preparing spawn area: 91%
-[00:51:03] [Worker-Main-3/INFO]: Preparing spawn area: 94%
-[00:51:03] [Worker-Main-3/INFO]: Preparing spawn area: 97%
-[00:51:04] [Server thread/INFO]: Time elapsed: 25845 ms
-[00:51:04] [Server thread/INFO]: Done (31.190s)! For help, type "help"
-[00:54:00] [Server thread/INFO]: SANLORENZO[/127.68.242.207:56931] logged in with entity id 257 at (0.5, 76.0, -28.5)
-[00:54:00] [Server thread/INFO]: SANLORENZO joined the game
-[00:56:20] [Server thread/INFO]: SANLORENZO has made the advancement [Stone Age]
-[00:58:05] [Server thread/INFO]: Sammy757z[/127.46.249.115:44551] logged in with entity id 1333 at (0.5, 75.0, -27.5)
-[00:58:05] [Server thread/INFO]: Sammy757z joined the game
-[00:58:28] [Server thread/INFO]: SANLORENZO has made the advancement [Getting an Upgrade]
-[00:58:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=3, y=72, z=-18}
-[00:58:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=2, y=71, z=-18}
-[00:59:50] [Server thread/INFO]: Sammy757z lost connection: Timed out
-[00:59:50] [Server thread/INFO]: Sammy757z left the game
-[00:59:50] [Server thread/WARN]: handleDisconnection() called twice
-[01:00:13] [Server thread/INFO]: Sammy757z[/127.46.249.115:38527] logged in with entity id 1892 at (-17.386237891956792, 68.0, 17.220486427045447)
-[01:00:13] [Server thread/INFO]: Sammy757z joined the game
-[01:01:58] [Server thread/INFO]: Sammy757z has made the advancement [Stone Age]
-[01:03:15] [Server thread/INFO]: Jobelmax757[/127.46.249.115:45495] logged in with entity id 3089 at (10.5, 74.0, -28.5)
-[01:03:15] [Server thread/INFO]: Jobelmax757 joined the game
-[01:03:37] [Server thread/INFO]: Jobelmax757 lost connection: Disconnected
-[01:03:37] [Server thread/INFO]: Jobelmax757 left the game
-[01:08:43] [Server thread/INFO]: SANLORENZO has made the advancement [Monster Hunter]
-[01:08:53] [Server thread/INFO]: kath[/127.68.242.207:34415] logged in with entity id 4576 at (10.5, 74.0, -22.5)
-[01:08:53] [Server thread/INFO]: kath joined the game
-[01:09:27] [Server thread/INFO]: kath lost connection: Disconnected
-[01:09:27] [Server thread/INFO]: kath left the game
-[01:09:50] [Server thread/INFO]: kath[/127.68.242.207:40899] logged in with entity id 4846 at (20.28687188071401, 76.0, -28.912741133666348)
-[01:09:50] [Server thread/INFO]: kath joined the game
-[01:10:02] [Server thread/INFO]: [Not Secure] <Sammy757z> 🙉🙉🙉
-[01:10:14] [Server thread/INFO]: [Not Secure] <Sammy757z> 💀💀💀
-[01:10:45] [Server thread/INFO]: SANLORENZO has made the advancement [Acquire Hardware]
-[01:11:04] [Server thread/INFO]: SANLORENZO has made the advancement [Isn't It Iron Pick]
-[01:11:28] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=9, y=78, z=-48}
-[01:11:28] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=8, y=78, z=-48}
-[01:11:29] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=7, y=78, z=-48}
-[01:11:37] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=5, y=73, z=-25}
-[01:11:37] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=5, y=73, z=-26}
-[01:11:37] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=6, y=73, z=-26}
-[01:11:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=7, y=73, z=-27}
-[01:11:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=8, y=73, z=-27}
-[01:11:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=9, y=73, z=-27}
-[01:11:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=10, y=73, z=-26}
-[01:11:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=9, y=73, z=-29}
-[01:11:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=10, y=74, z=-30}
-[01:11:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=11, y=74, z=-28}
-[01:11:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=11, y=74, z=-30}
-[01:11:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=12, y=75, z=-32}
-[01:11:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=12, y=75, z=-32}
-[01:11:43] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=12, y=75, z=-32}
-[01:11:43] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=10, y=77, z=-49} hx{x=12, y=75, z=-32}
-[01:12:11] [Server thread/INFO]: TavyronTujax[/127.46.249.115:40279] logged in with entity id 5750 at (3.5, 74.0, -25.5)
-[01:12:11] [Server thread/INFO]: TavyronTujax joined the game
-[01:12:42] [Server thread/INFO]: Jobelmax757[/127.46.249.115:52409] logged in with entity id 5948 at (10.986387383647918, 74.0, -22.18435451415432)
-[01:12:42] [Server thread/INFO]: Jobelmax757 joined the game
-[01:13:02] [Server thread/INFO]: SANLORENZO has made the advancement [Suit Up]
-[01:15:40] [Server thread/INFO]: Jobelmax757 has made the advancement [Stone Age]
-[01:15:56] [Server thread/INFO]: Jobelmax757 has made the advancement [Getting an Upgrade]
-[01:16:21] [Server thread/INFO]: TavyronTujax has made the advancement [Stone Age]
-[01:16:39] [Server thread/INFO]: TavyronTujax has made the advancement [Getting an Upgrade]
-[01:17:49] [Server thread/INFO]: [Not Secure] <TavyronTujax> airon pleis de los pleis
-[01:17:58] [Server thread/INFO]: [Not Secure] <Sammy757z> lidel
-[01:18:05] [Server thread/INFO]: [Not Secure] <Sammy757z> vamos en biyi
-[01:18:08] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to SANLORENZO]
-[01:18:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-66, y=75, z=-46} hx{x=4, y=77, z=-44}
-[01:18:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-66, y=75, z=-46} hx{x=4, y=77, z=-43}
-[01:18:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-66, y=75, z=-46} hx{x=3, y=77, z=-41}
-[01:18:21] [Server thread/INFO]: Jobelmax757 has made the advancement [Monster Hunter]
-[01:18:21] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-66, y=75, z=-46} hx{x=3, y=77, z=-40}
-[01:18:21] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-66, y=75, z=-46} hx{x=3, y=77, z=-41}
-[01:18:21] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-66, y=75, z=-46} hx{x=3, y=77, z=-40}
-[01:18:21] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-66, y=75, z=-46} hx{x=3, y=77, z=-40}
-[01:18:23] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-66, y=75, z=-46} hx{x=1, y=77, z=-40}
-[01:18:24] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-66, y=75, z=-46} hx{x=1, y=76, z=-37}
-[01:19:04] [Server thread/INFO]: Jobelmax757 was slain by Zombie
-[01:19:13] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to SANLORENZO]
-[01:20:33] [Server thread/INFO]: SANLORENZO has made the advancement [Diamonds!]
-[01:21:33] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-43, y=77, z=-60} hx{x=-43, y=75, z=-60}
-[01:21:42] [Server thread/INFO]: Sammy757z has made the advancement [Sweet Dreams]
-[01:22:14] [Server thread/INFO]: TavyronTujax has made the advancement [Sweet Dreams]
-[01:22:21] [Server thread/INFO]: [Not Secure] <TavyronTujax> hagan caso al LIDEL!!
-[01:23:10] [Server thread/INFO]: kath has made the advancement [Sweet Dreams]
-[01:23:25] [Server thread/INFO]: Jobelmax757 has made the advancement [Acquire Hardware]
-[01:23:32] [Server thread/INFO]: Jobelmax757 was slain by Zombie
-[01:23:40] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to SANLORENZO]
-[01:23:54] [Server thread/INFO]: TavyronTujax has made the advancement [Monster Hunter]
-[01:24:07] [Server thread/INFO]: Jobelmax757 has made the advancement [Suit Up]
-[01:24:30] [Server thread/INFO]: Sammy757z was slain by Spider
-[01:24:45] [Server thread/INFO]: Sammy757z has made the advancement [Monster Hunter]
-[01:24:49] [Server thread/INFO]: Jobelmax757 has made the advancement [Sweet Dreams]
-[01:24:50] [Server thread/INFO]: SANLORENZO has made the advancement [Sweet Dreams]
-[01:25:10] [Server thread/INFO]: [Not Secure] <SANLORENZO> SANLORENZOW
-[01:25:48] [Server thread/INFO]: Sammy757z was slain by Zombie
-[01:26:21] [Server thread/INFO]: Sammy757z has made the advancement [Getting an Upgrade]
-[01:26:28] [Server thread/INFO]: kath has made the advancement [Stone Age]
-[01:27:11] [Server thread/INFO]: Jobelmax757 has made the advancement [Isn't It Iron Pick]
-[01:28:24] [Server thread/INFO]: Jobelmax757 was slain by Zombie
-[01:28:53] [Server thread/INFO]: Jobelmax757 burned to death
-[01:30:03] [Server thread/INFO]: Jobelmax757 has made the advancement [Diamonds!]
-[01:30:08] [Server thread/INFO]: [Not Secure] <Sammy757z> 🥚🥚🥚
-[01:31:28] [Server thread/INFO]: Jobelmax757 has made the advancement [Not Today, Thank You]
-[01:32:57] [Server thread/INFO]: kath has made the advancement [Getting an Upgrade]
-[01:33:43] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to SANLORENZO]
-[01:38:35] [Server thread/INFO]: [Not Secure] <kath> dondwe estan
-[01:39:04] [Server thread/INFO]: [Not Secure] <Jobelmax757> Hay gente que labura aca enserio y vos chaval con tu fullbright y te quejas
-[01:39:07] [Server thread/INFO]: kath lost connection: Timed out
-[01:39:07] [Server thread/INFO]: kath left the game
-[01:39:13] [Server thread/INFO]: [Not Secure] <Jobelmax757> bajale carne de zombie
-[01:39:18] [Server thread/INFO]: [Not Secure] <Jobelmax757> exquisito
-[01:39:23] [Server thread/INFO]: kath[/127.68.242.207:57907] logged in with entity id 19801 at (67.5, 67.0, -297.5)
-[01:39:23] [Server thread/INFO]: kath joined the game
-[01:39:34] [Server thread/INFO]: [Not Secure] <Jobelmax757> EXQUISITE
-[01:40:40] [Server thread/INFO]: [Not Secure] <Jobelmax757> 11 diamantukis laburando como hombre chaval
-[01:41:01] [Server thread/INFO]: [Not Secure] <Jobelmax757> Quien no 25 con su fullbright pony
-[01:41:26] [Server thread/INFO]: [Not Secure] <Sammy757z> duerman pues
-[01:41:55] [Server thread/INFO]: [Not Secure] <Jobelmax757> Dormi, te puedar ordenes porque sos pony, usas fullbirght
-[01:42:45] [Server thread/INFO]: [Not Secure] <TavyronTujax> quien poia falta dormir??
-[01:42:56] [Server thread/INFO]: [Not Secure] <Sammy757z> patada va comer
-[01:43:16] [Server thread/INFO]: Sammy757z lost connection: Timed out
-[01:43:16] [Server thread/INFO]: Sammy757z left the game
-[01:43:27] [Server thread/INFO]: Sammy757z[/127.46.249.115:35835] logged in with entity id 21836 at (2.5, 95.0, 200.5)
-[01:43:27] [Server thread/INFO]: Sammy757z joined the game
-[01:43:57] [Server thread/INFO]: Sammy757z lost connection: Timed out
-[01:43:57] [Server thread/INFO]: Sammy757z left the game
-[01:43:59] [Server thread/INFO]: Sammy757z[/127.46.249.115:43197] logged in with entity id 22158 at (2.5, 95.0, 200.5)
-[01:43:59] [Server thread/INFO]: Sammy757z joined the game
-[01:44:38] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[01:44:46] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[01:44:56] [Server thread/INFO]: [Not Secure] <Jobelmax757> Laburando como hombre en la capa -57
-[01:45:00] [Server thread/INFO]: [Not Secure] <Jobelmax757> sin fullbright
-[01:45:26] [Server thread/INFO]: [Not Secure] <Jobelmax757> Y digo... porque este chaval rre PONY con su fullbright
-[01:45:34] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=112, y=64, z=-18} hx{x=111, y=62, z=-16}
-[01:45:34] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=112, y=64, z=-18} hx{x=111, y=62, z=-16}
-[01:45:38] [Server thread/INFO]: [Not Secure] <Jobelmax757> el unico en el server con fullbright de nenitas
-[01:46:31] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to SANLORENZO]
-[01:47:00] [Server thread/INFO]: [Not Secure] <Jobelmax757> SCREENSHEt
-[01:47:08] [Server thread/INFO]: [Not Secure] <Sammy757z> nigger
-[01:47:09] [Server thread/INFO]: [Not Secure] <TavyronTujax> tira la coordenade
-[01:47:26] [Server thread/INFO]: [Not Secure] <SANLORENZO> -23 -312
-[01:47:35] [Server thread/INFO]: Jobelmax757 has made the advancement [Cover Me with Diamonds]
-[01:51:01] [Server thread/INFO]: Sammy757z has made the advancement [Suit Up]
-[01:52:38] [Server thread/INFO]: kath has made the advancement [Isn't It Iron Pick]
-[01:53:27] [Server thread/INFO]: [Jobelmax757: Applied effect Regeneration to kath]
-[01:53:39] [Server thread/INFO]: [Not Secure] <Sammy757z> -126 -581
-[01:55:13] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to SANLORENZO]
-[01:55:21] [Server thread/INFO]: [Jobelmax757: Applied effect Levitation to SANLORENZO]
-[01:55:26] [Server thread/INFO]: [Jobelmax757: Applied effect Levitation to SANLORENZO]
-[01:55:29] [Server thread/INFO]: SANLORENZO has completed the challenge [Great View From Up Here]
-[01:55:49] [Server thread/INFO]: [Jobelmax757: Removed every effect from SANLORENZO]
-[01:56:08] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to SANLORENZO]
-[01:56:12] [Server thread/INFO]: [Jobelmax757: Applied effect Levitation to SANLORENZO]
-[01:56:29] [Server thread/INFO]: [Jobelmax757: Removed every effect from SANLORENZO]
-[01:56:46] [Server thread/INFO]: [Not Secure] <kath> DUERMAN}
-[01:58:12] [Server thread/INFO]: Sammy757z has made the advancement [Acquire Hardware]
-[01:58:22] [Server thread/INFO]: [Jobelmax757: Applied effect Levitation to SANLORENZO]
-[01:58:26] [Server thread/INFO]: [Jobelmax757: Applied effect Resistance to SANLORENZO]
-[01:58:41] [Server thread/INFO]: [Jobelmax757: Removed every effect from SANLORENZO]
-[01:59:41] [Server thread/INFO]: [Jobelmax757: Applied effect Levitation to SANLORENZO]
-[01:59:58] [Server thread/INFO]: SANLORENZO fell from a high place
-[02:00:05] [Server thread/INFO]: [Jobelmax757: Teleported SANLORENZO to Jobelmax757]
-[02:00:31] [Server thread/INFO]: [Jobelmax757: Applied effect Levitation to Jobelmax757]
-[02:00:32] [Server thread/INFO]: Jobelmax757 has completed the challenge [Great View From Up Here]
-[02:00:49] [Server thread/INFO]: TavyronTujax lost connection: Disconnected
-[02:00:49] [Server thread/INFO]: TavyronTujax left the game
-[02:02:36] [Server thread/INFO]: Sammy757z lost connection: Disconnected
-[02:02:36] [Server thread/INFO]: Sammy757z left the game
-[02:04:09] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-46, y=89, z=-270} hx{x=-46, y=87, z=-270}
-[02:08:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-51, y=88, z=-260} hx{x=-50, y=87, z=-258}
-[02:08:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-51, y=88, z=-260} hx{x=-50, y=87, z=-258}
-[02:08:34] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-55, y=89, z=-267} hx{x=-55, y=87, z=-268}
-[02:08:36] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-51, y=89, z=-267} hx{x=-50, y=87, z=-267}
-[02:11:41] [Server thread/INFO]: kath has made the advancement [Monster Hunter]
-[02:18:34] [Server thread/INFO]: kath has made the advancement [A Seedy Place]
-[02:22:55] [Server thread/INFO]: Sammy757z[/127.46.249.115:57283] logged in with entity id 33174 at (-99.09452292731969, 86.0, -258.2200512177783)
-[02:22:55] [Server thread/INFO]: Sammy757z joined the game
-[02:26:11] [Server thread/INFO]: Jobelmax757 lost connection: Disconnected
-[02:26:11] [Server thread/INFO]: Jobelmax757 left the game
-[02:26:16] [Server thread/INFO]: kath was slain by Zombie
-[02:27:05] [Server thread/INFO]: kath lost connection: Disconnected
-[02:27:05] [Server thread/INFO]: kath left the game
-[02:28:03] [Server thread/INFO]: Sammy757z lost connection: Disconnected
-[02:28:03] [Server thread/INFO]: Sammy757z left the game
-[02:28:26] [Server thread/INFO]: kath[/127.68.242.207:41767] logged in with entity id 34235 at (6.691181260856804, 69.0, 3.745039695067678)
-[02:28:26] [Server thread/INFO]: kath joined the game
-[02:30:12] [Server thread/INFO]: SANLORENZO lost connection: Disconnected
-[02:30:12] [Server thread/INFO]: SANLORENZO left the game
-[02:30:17] [Server thread/INFO]: kath lost connection: Disconnected
-[02:30:17] [Server thread/INFO]: kath left the game
-[02:33:24] [Server thread/INFO]: Jobelmax757[/127.46.249.115:33553] logged in with entity id 34886 at (-74.03831020061229, 90.0, -269.0870541331553)
-[02:33:24] [Server thread/INFO]: Jobelmax757 joined the game
-[02:33:36] [Server thread/INFO]: Jobelmax757 lost connection: Disconnected
-[02:33:36] [Server thread/INFO]: Jobelmax757 left the game
+[00:00:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:00:23] [ServerMain/INFO]: Loaded 7 recipes
+[00:00:23] [ServerMain/INFO]: Loaded 1271 advancements
+[00:00:24] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[00:00:24] [Server thread/INFO]: Loading properties
+[00:00:24] [Server thread/INFO]: Default game type: SURVIVAL
+[00:00:24] [Server thread/INFO]: Generating keypair
+[00:00:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:00:25] [Server thread/INFO]: Using epoll channel type
+[00:00:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:00:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:00:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:00:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:00:25] [Server thread/INFO]: Preparing level "world"
+[00:00:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:00:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:00:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:00:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:00:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:00:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:00:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:00:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:00:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:00:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:00:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:00:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:00:35] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[00:00:36] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[00:00:36] [Worker-Main-1/INFO]: Preparing spawn area: 85%
+[00:00:36] [Server thread/INFO]: Time elapsed: 6609 ms
+[00:00:36] [Server thread/INFO]: Done (11.461s)! For help, type "help"
+[00:00:58] [Server thread/INFO]: SANLORENZO[/127.68.242.207:32969] logged in with entity id 69 at (-73.33837011377615, 80.0, -285.55747080226905)
+[00:00:58] [Server thread/INFO]: SANLORENZO joined the game
+[00:01:29] [Server thread/INFO]: Sammy757z[/127.46.249.115:44229] logged in with entity id 274 at (-39.70976761061249, 80.0, -220.30000001192093)
+[00:01:29] [Server thread/INFO]: Sammy757z joined the game
+[00:01:56] [Server thread/INFO]: Jobelmax757[/127.46.249.115:49263] logged in with entity id 413 at (-69.8467103084534, 88.0, -264.30688801589145)
+[00:01:56] [Server thread/INFO]: Jobelmax757 joined the game
+[00:03:14] [Server thread/INFO]: malefumacrack[/127.148.141.124:41319] logged in with entity id 680 at (1.5, 75.0, -26.5)
+[00:03:14] [Server thread/INFO]: malefumacrack joined the game
+[00:03:34] [Server thread/INFO]: [Jobelmax757: Teleported malefumacrack to Jobelmax757]
+[00:05:12] [Server thread/INFO]: [Jobelmax757: Teleported SANLORENZO to Jobelmax757]
+[00:05:40] [Server thread/INFO]: [Jobelmax757: Applied effect Levitation to 4 targets]
+[00:05:41] [Server thread/INFO]: malefumacrack has completed the challenge [Great View From Up Here]
+[00:05:41] [Server thread/INFO]: Sammy757z has completed the challenge [Great View From Up Here]
+[00:05:47] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.160309683716946,0.0
+[00:05:56] [Server thread/INFO]: malefumacrack fell from a high place
+[00:05:56] [Server thread/INFO]: Sammy757z fell from a high place
+[00:05:56] [Server thread/INFO]: Jobelmax757 fell from a high place
+[00:06:03] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to SANLORENZO]
+[00:06:18] [Server thread/INFO]: [Jobelmax757: Applied effect Levitation to 4 targets]
+[00:06:23] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,27.22222427852421,0.0
+[00:06:27] [Server thread/INFO]: [Jobelmax757: Applied effect Levitation to 4 targets]
+[00:06:44] [Server thread/INFO]: Sammy757z lost connection: Disconnected
+[00:06:44] [Server thread/INFO]: Sammy757z left the game
+[00:06:47] [Server thread/INFO]: Jobelmax757 fell from a high place
+[00:06:49] [Server thread/INFO]: SANLORENZO fell from a high place
+[00:06:58] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
+[00:07:06] [Server thread/INFO]: [Jobelmax757: Teleported 3 entities to Jobelmax757]
+[00:07:15] [Server thread/INFO]: Sammy757z[/127.46.249.115:41987] logged in with entity id 2563 at (-98.78267812795636, 460.8630700009926, -206.93107267265165)
+[00:07:15] [Server thread/INFO]: Sammy757z joined the game
+[00:07:23] [Server thread/INFO]: Sammy757z fell from a high place
+[00:07:23] [Server thread/INFO]: Sammy757z lost connection: Disconnected
+[00:07:23] [Server thread/INFO]: Sammy757z left the game
+[00:07:29] [Server thread/INFO]: Sammy757z[/127.46.249.115:42971] logged in with entity id 2615 at (-98.78267812795636, 78.0, -206.93107267265165)
+[00:07:29] [Server thread/INFO]: Sammy757z joined the game
+[00:07:30] [Server thread/INFO]: [Jobelmax757: Teleported 4 entities to Jobelmax757]
+[00:07:33] [Server thread/INFO]: [Jobelmax757: Teleported 4 entities to Jobelmax757]
+[00:07:39] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
+[00:07:45] [Server thread/INFO]: [Jobelmax757: Applied effect Levitation to 4 targets]
+[00:07:50] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,27.222224029907693,0.0
+[00:07:52] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,10.309032963989466,0.0
+[00:07:54] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,-10.867409983895072,0.0
+[00:07:58] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,-18.7975453996728,0.0
+[00:08:01] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.0,-13.13631135272658,0.0
+[00:08:01] [Server thread/INFO]: malefumacrack fell from a high place
+[00:08:02] [Server thread/INFO]: SANLORENZO fell from a high place
+[00:08:06] [Server thread/INFO]: Jobelmax757 fell from a high place
+[00:08:16] [Server thread/INFO]: [Jobelmax757: Teleported 4 entities to Jobelmax757]
+[00:08:37] [Server thread/INFO]: Sammy757z has made the advancement [Diamonds!]
+[00:08:43] [Server thread/INFO]: malefumacrack has made the advancement [Diamonds!]
+[00:08:47] [Server thread/INFO]: Jobelmax757 was slain by SANLORENZO
+[00:09:01] [Server thread/INFO]: [Jobelmax757: Set the time to 1000]
+[00:09:06] [Server thread/INFO]: [Jobelmax757: Set the weather to rain & thunder]
+[00:09:12] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
+[00:09:16] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
+[00:09:18] [Server thread/INFO]: [Jobelmax757: Successfully filled 1000 block(s)]
+[00:09:18] [Server thread/INFO]: Sammy757z has made the advancement [Cover Me with Diamonds]
+[00:09:21] [Server thread/INFO]: SANLORENZO lost connection: Disconnected
+[00:09:21] [Server thread/INFO]: SANLORENZO left the game
+[00:09:25] [Server thread/INFO]: Sammy757z was blown up by Jobelmax757
+[00:09:25] [Server thread/INFO]: malefumacrack was blown up by Jobelmax757
+[00:09:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:09:27] [Server thread/WARN]: Sammy757z moved too quickly! -1.2114418413386545,10.051599696371781,-2.2976922345980597
+[00:09:28] [Server thread/INFO]: Jobelmax757 was doomed to fall by Jobelmax757
+[00:09:33] [Server thread/INFO]: Sammy757z lost connection: Disconnected
+[00:09:33] [Server thread/INFO]: Sammy757z left the game
+[00:09:36] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=-7, y=76, z=-42}
+[00:09:36] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=-8, y=76, z=-43}
+[00:09:38] [Server thread/INFO]: [Jobelmax757: Successfully filled 1000 block(s)]
+[00:09:42] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
+[00:09:57] [Server thread/INFO]: [Jobelmax757: Successfully filled 1000 block(s)]
