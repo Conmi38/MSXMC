@@ -279,3 +279,7 @@
 [05:28:26] [Server thread/INFO]: Villager cev['Villager'/160139, l='ServerLevel[world]', x=521.33, y=87.00, z=-368.49] died, message: 'Villager was slain by Zombie Villager'
 [05:28:28] [Server thread/INFO]: Villager cev['Villager'/160121, l='ServerLevel[world]', x=521.23, y=87.00, z=-368.88] died, message: 'Villager was slain by Zombie Villager'
 [05:28:31] [Server thread/INFO]: Villager cev['Villager'/160136, l='ServerLevel[world]', x=519.31, y=87.00, z=-368.02] died, message: 'Villager was slain by Zombie Villager'
+[05:42:27] [Server thread/INFO]: TavyronTujax lost connection: Disconnected
+[05:42:27] [Server thread/INFO]: TavyronTujax left the game
+[05:43:49] [Server thread/INFO]: TavyronTujax[/127.46.249.115:48431] logged in with entity id 181031 at (549.5760350328546, 73.0, -362.7770243530179)
+[05:43:49] [Server thread/INFO]: TavyronTujax joined the game
