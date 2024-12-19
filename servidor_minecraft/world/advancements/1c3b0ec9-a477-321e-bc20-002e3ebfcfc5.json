@@ -1212,5 +1212,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-19 02:12:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
