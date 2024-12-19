@@ -274,3 +274,8 @@
 [05:06:03] [Server thread/INFO]: Jobelmax757 left the game
 [05:07:14] [Server thread/INFO]: maeatrokill2024 lost connection: Disconnected
 [05:07:14] [Server thread/INFO]: maeatrokill2024 left the game
+[05:28:03] [Server thread/INFO]: Villager cev['Villager'/160140, l='ServerLevel[world]', x=519.44, y=87.00, z=-367.23] died, message: 'Villager was slain by Zombie'
+[05:28:25] [Server thread/INFO]: Villager cev['Farmer'/160697, l='ServerLevel[world]', x=519.59, y=87.00, z=-368.17] died, message: 'Farmer was slain by Zombie'
+[05:28:26] [Server thread/INFO]: Villager cev['Villager'/160139, l='ServerLevel[world]', x=521.33, y=87.00, z=-368.49] died, message: 'Villager was slain by Zombie Villager'
+[05:28:28] [Server thread/INFO]: Villager cev['Villager'/160121, l='ServerLevel[world]', x=521.23, y=87.00, z=-368.88] died, message: 'Villager was slain by Zombie Villager'
+[05:28:31] [Server thread/INFO]: Villager cev['Villager'/160136, l='ServerLevel[world]', x=519.31, y=87.00, z=-368.02] died, message: 'Villager was slain by Zombie Villager'
