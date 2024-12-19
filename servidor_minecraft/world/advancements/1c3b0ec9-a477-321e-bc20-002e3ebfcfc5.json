@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-12-19 01:51:27 +0000",
       "minecraft:beach": "2024-12-17 01:09:11 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-19 01:52:29 +0000",
       "minecraft:forest": "2024-12-17 01:08:15 +0000",
       "minecraft:taiga": "2024-12-17 01:24:19 +0000",
       "minecraft:river": "2024-12-17 01:07:42 +0000",
@@ -18,7 +20,9 @@
       "minecraft:frozen_river": "2024-12-17 00:51:19 +0000",
       "minecraft:ocean": "2024-12-17 01:19:56 +0000",
       "minecraft:grove": "2024-12-17 00:45:25 +0000",
+      "minecraft:birch_forest": "2024-12-19 01:50:10 +0000",
       "minecraft:snowy_beach": "2024-12-17 00:50:14 +0000",
+      "minecraft:savanna": "2024-12-19 01:44:42 +0000",
       "minecraft:windswept_savanna": "2024-12-17 01:08:27 +0000",
       "minecraft:plains": "2024-12-17 01:07:08 +0000"
     },
@@ -1183,15 +1187,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-19 01:33:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-19 01:38:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "has_emerald": "2024-12-19 01:33:56 +0000"
+      "has_compass": "2024-12-19 01:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-19 01:47:50 +0000"
     },
     "done": true
   },
