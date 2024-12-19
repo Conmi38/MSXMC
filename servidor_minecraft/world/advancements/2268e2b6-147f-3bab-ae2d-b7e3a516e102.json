@@ -7,16 +7,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_ocean": "2024-12-19 01:53:28 +0000",
-      "minecraft:frozen_river": "2024-12-19 04:26:16 +0000",
+      "minecraft:cold_ocean": "2024-12-19 04:56:53 +0000",
+      "minecraft:beach": "2024-12-19 04:58:04 +0000",
       "minecraft:forest": "2024-12-19 01:58:41 +0000",
       "minecraft:taiga": "2024-12-19 03:31:01 +0000",
-      "minecraft:deep_frozen_ocean": "2024-12-19 04:37:29 +0000",
       "minecraft:river": "2024-12-19 04:28:37 +0000",
-      "minecraft:meadow": "2024-12-19 04:49:43 +0000",
       "minecraft:stony_shore": "2024-12-19 01:53:14 +0000",
       "minecraft:snowy_plains": "2024-12-19 01:52:43 +0000",
       "minecraft:snowy_taiga": "2024-12-19 01:50:25 +0000",
+      "minecraft:frozen_ocean": "2024-12-19 01:53:28 +0000",
+      "minecraft:frozen_river": "2024-12-19 04:26:16 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-19 04:37:29 +0000",
+      "minecraft:deep_dark": "2024-12-19 05:01:00 +0000",
+      "minecraft:meadow": "2024-12-19 04:49:43 +0000",
       "minecraft:snowy_beach": "2024-12-19 04:33:51 +0000",
       "minecraft:plains": "2024-12-19 04:45:32 +0000"
     },
@@ -1564,6 +1567,102 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-19 04:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-19 05:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-19 05:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-19 05:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-19 05:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-19 05:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 05:04:58 +0000"
     },
     "done": true
   },
