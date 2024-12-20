@@ -16,6 +16,7 @@
       "minecraft:windswept_forest": "2024-12-20 00:57:36 +0000",
       "minecraft:grove": "2024-12-20 01:16:41 +0000",
       "minecraft:meadow": "2024-12-20 00:36:40 +0000",
+      "minecraft:lush_caves": "2024-12-20 02:23:16 +0000",
       "minecraft:dripstone_caves": "2024-12-20 01:47:54 +0000",
       "minecraft:plains": "2024-12-20 00:37:00 +0000"
     },
@@ -1477,6 +1478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-20 02:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-20 01:58:03 +0000"
@@ -1552,6 +1559,18 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 01:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 02:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 02:26:28 +0000"
     },
     "done": true
   },
@@ -1639,6 +1658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-20 02:26:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-20 01:32:08 +0000"
@@ -1687,6 +1712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 02:25:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-20 01:32:08 +0000"
@@ -1696,6 +1727,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 01:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 02:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 02:26:28 +0000"
     },
     "done": true
   },
