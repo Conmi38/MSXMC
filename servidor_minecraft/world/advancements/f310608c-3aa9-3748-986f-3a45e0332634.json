@@ -274,6 +274,7 @@
       "cooked_beef": "2024-12-20 01:58:56 +0000",
       "cod": "2024-12-20 02:52:19 +0000",
       "melon_slice": "2024-12-20 00:48:57 +0000",
+      "pumpkin_pie": "2024-12-20 03:58:08 +0000",
       "carrot": "2024-12-20 01:58:31 +0000"
     },
     "done": false
@@ -756,6 +757,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-20 03:10:11 +0000",
       "minecraft:vindicator": "2024-12-20 03:07:26 +0000",
+      "minecraft:witch": "2024-12-20 03:57:16 +0000",
       "minecraft:spider": "2024-12-20 01:10:08 +0000",
       "minecraft:vex": "2024-12-20 03:45:07 +0000",
       "minecraft:drowned": "2024-12-20 02:51:33 +0000",
@@ -1825,6 +1827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2024-12-20 03:53:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-20 02:27:08 +0000"
@@ -1990,6 +1998,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-20 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-20 03:51:04 +0000"
     },
     "done": true
   },
