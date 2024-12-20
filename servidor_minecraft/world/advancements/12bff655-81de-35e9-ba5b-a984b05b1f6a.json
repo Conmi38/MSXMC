@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:desert": "2024-12-20 03:07:49 +0000",
       "minecraft:windswept_forest": "2024-12-20 00:57:35 +0000",
       "minecraft:grove": "2024-12-20 01:16:40 +0000",
       "minecraft:lush_caves": "2024-12-20 02:22:38 +0000",
@@ -1196,6 +1197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-20 03:02:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 02:58:31 +0000"
@@ -1301,6 +1308,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-20 02:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-20 03:07:54 +0000"
     },
     "done": true
   },
@@ -1427,6 +1440,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 01:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-20 03:07:54 +0000"
     },
     "done": true
   },
@@ -1709,6 +1728,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-20 02:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-20 03:06:15 +0000"
     },
     "done": true
   },
