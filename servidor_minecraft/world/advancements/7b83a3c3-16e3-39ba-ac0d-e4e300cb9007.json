@@ -15,6 +15,7 @@
     "criteria": {
       "minecraft:windswept_forest": "2024-12-20 00:58:44 +0000",
       "minecraft:meadow": "2024-12-20 00:37:22 +0000",
+      "minecraft:dripstone_caves": "2024-12-20 02:06:50 +0000",
       "minecraft:plains": "2024-12-20 00:37:38 +0000"
     },
     "done": false
@@ -379,12 +380,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2024-12-20 01:02:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-20 00:59:36 +0000"
@@ -412,6 +407,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-20 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-20 01:02:03 +0000"
     },
     "done": true
   },
