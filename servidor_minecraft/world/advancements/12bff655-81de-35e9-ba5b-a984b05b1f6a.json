@@ -18,6 +18,7 @@
       "minecraft:grove": "2024-12-20 01:16:40 +0000",
       "minecraft:lush_caves": "2024-12-20 02:22:38 +0000",
       "minecraft:dripstone_caves": "2024-12-20 01:48:54 +0000",
+      "minecraft:bamboo_jungle": "2024-12-20 03:45:17 +0000",
       "minecraft:plains": "2024-12-20 00:40:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-20 02:46:22 +0000"
     },
@@ -940,6 +941,7 @@
     "criteria": {
       "minecraft:vindicator": "2024-12-20 03:27:47 +0000",
       "minecraft:spider": "2024-12-20 02:33:06 +0000",
+      "minecraft:vex": "2024-12-20 03:46:19 +0000",
       "minecraft:zombie": "2024-12-20 01:10:34 +0000",
       "minecraft:husk": "2024-12-20 03:11:39 +0000"
     },
@@ -983,6 +985,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_chicken": "2024-12-20 03:46:40 +0000",
       "mushroom_stew": "2024-12-20 01:12:52 +0000",
       "cooked_beef": "2024-12-20 01:30:21 +0000",
       "golden_carrot": "2024-12-20 02:18:18 +0000"
@@ -1250,6 +1253,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-12-20 03:49:04 +0000"
     },
     "done": true
   },
@@ -2090,6 +2099,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-20 02:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-12-20 03:49:04 +0000"
     },
     "done": true
   },

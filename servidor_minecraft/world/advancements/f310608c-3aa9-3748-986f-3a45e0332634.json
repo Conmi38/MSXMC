@@ -19,6 +19,7 @@
       "minecraft:meadow": "2024-12-20 00:36:40 +0000",
       "minecraft:lush_caves": "2024-12-20 02:23:16 +0000",
       "minecraft:dripstone_caves": "2024-12-20 01:47:54 +0000",
+      "minecraft:bamboo_jungle": "2024-12-20 03:40:27 +0000",
       "minecraft:plains": "2024-12-20 00:37:00 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-20 02:44:04 +0000"
     },
@@ -756,6 +757,7 @@
       "minecraft:pillager": "2024-12-20 03:10:11 +0000",
       "minecraft:vindicator": "2024-12-20 03:07:26 +0000",
       "minecraft:spider": "2024-12-20 01:10:08 +0000",
+      "minecraft:vex": "2024-12-20 03:45:07 +0000",
       "minecraft:drowned": "2024-12-20 02:51:33 +0000",
       "minecraft:husk": "2024-12-20 03:06:31 +0000"
     },
@@ -1481,6 +1483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 03:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-20 03:32:44 +0000"
@@ -1502,6 +1510,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2024-12-20 03:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 03:48:53 +0000"
     },
     "done": true
   },
@@ -1862,6 +1876,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 01:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 03:44:08 +0000"
     },
     "done": true
   },

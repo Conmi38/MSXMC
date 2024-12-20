@@ -19,6 +19,7 @@
       "minecraft:meadow": "2024-12-20 00:36:54 +0000",
       "minecraft:lush_caves": "2024-12-20 02:19:44 +0000",
       "minecraft:dripstone_caves": "2024-12-20 01:47:55 +0000",
+      "minecraft:bamboo_jungle": "2024-12-20 03:39:30 +0000",
       "minecraft:plains": "2024-12-20 00:38:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-20 02:44:04 +0000"
     },
@@ -745,7 +746,9 @@
       "minecraft:guardian": "2024-12-20 02:47:15 +0000",
       "minecraft:vindicator": "2024-12-20 03:27:49 +0000",
       "minecraft:stray": "2024-12-20 01:22:37 +0000",
+      "minecraft:witch": "2024-12-20 03:48:12 +0000",
       "minecraft:spider": "2024-12-20 01:04:16 +0000",
+      "minecraft:vex": "2024-12-20 03:45:46 +0000",
       "minecraft:zombie": "2024-12-20 01:12:33 +0000",
       "minecraft:creeper": "2024-12-20 01:58:27 +0000",
       "minecraft:drowned": "2024-12-20 02:48:59 +0000",
@@ -2677,6 +2680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-12-20 03:47:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-20 03:38:05 +0000"
@@ -2686,6 +2695,12 @@
   "minecraft:recipes/building_blocks/dye_magenta_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-20 03:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 03:39:43 +0000"
     },
     "done": true
   },
@@ -2713,9 +2728,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 03:39:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-20 03:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 03:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 03:39:43 +0000"
     },
     "done": true
   },
@@ -2731,9 +2764,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-20 03:47:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2024-12-20 03:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-20 03:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 03:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-20 03:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-20 03:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 03:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-12-20 03:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 03:39:43 +0000"
     },
     "done": true
   },
