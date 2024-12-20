@@ -1624,7 +1624,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2024-12-20 01:44:48 +0000"
+      "minecraft:cow": "2024-12-20 01:44:48 +0000",
+      "minecraft:axolotl": "2024-12-20 02:32:27 +0000"
     },
     "done": false
   },

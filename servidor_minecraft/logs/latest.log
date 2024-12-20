@@ -103,3 +103,17 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02:26:24] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=0, y=62, z=-1}
 [02:26:31] [Server thread/INFO]: Jobelmax757 has made the advancement [Monster Hunter]
 [02:28:46] [Server thread/INFO]: SANLORENZO was poked to death by a sweet berry bush
+[02:33:02] [Server thread/INFO]: Named entity cda['Monster Guard'/6396, l='ServerLevel[§9OneBlock §eReborn]', x=-11.52, y=66.88, z=-18.08] died: Monster Guard was slain by maeatrokill2024
+[02:33:04] [Server thread/INFO]: Named entity cda['Monster Guard'/6388, l='ServerLevel[§9OneBlock §eReborn]', x=-13.07, y=66.63, z=-17.63] died: Monster Guard was slain by maeatrokill2024
+[02:33:05] [Server thread/INFO]: Named entity cda['Monster Guard'/6395, l='ServerLevel[§9OneBlock §eReborn]', x=-11.62, y=66.31, z=-15.29] died: Monster Guard was slain by maeatrokill2024
+[02:33:06] [Server thread/INFO]: Named entity cda['Monster Guard'/6387, l='ServerLevel[§9OneBlock §eReborn]', x=-17.56, y=66.00, z=-8.86] died: Monster Guard was slain by TavyronTujax
+[02:33:15] [Server thread/INFO]: TavyronTujax was slain by Monster Guard
+[02:33:22] [Server thread/INFO]: Jobelmax757 was slain by Monster Guard
+[02:33:34] [Server thread/INFO]: Named entity cdi['Monster Guard'/6392, l='ServerLevel[§9OneBlock §eReborn]', x=-7.59, y=61.00, z=-3.99] died: Monster Guard was slain by Sammy757z
+[02:33:38] [Server thread/INFO]: Named entity cdi['Monster Guard'/6383, l='ServerLevel[§9OneBlock §eReborn]', x=-12.42, y=61.00, z=-1.34] died: Monster Guard was slain by TavyronTujax
+[02:33:39] [Server thread/INFO]: maeatrokill2024 was poked to death by a sweet berry bush
+[02:33:41] [Server thread/INFO]: TavyronTujax has made the advancement [Diamonds!]
+[02:34:10] [Server thread/INFO]: SANLORENZO was shot by Skeleton
+[02:35:12] [Server thread/INFO]: SANLORENZO fell out of the world
+[02:35:43] [Server thread/INFO]: Sammy757z fell out of the world
+[02:36:30] [Server thread/INFO]: Sammy757z has made the advancement [The Cutest Predator]
