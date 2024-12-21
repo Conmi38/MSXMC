@@ -754,7 +754,8 @@
       "minecraft:zombie": "2024-12-20 01:12:33 +0000",
       "minecraft:creeper": "2024-12-20 01:58:27 +0000",
       "minecraft:drowned": "2024-12-20 02:48:59 +0000",
-      "minecraft:zombie_villager": "2024-12-21 00:17:04 +0000"
+      "minecraft:zombie_villager": "2024-12-21 00:17:04 +0000",
+      "minecraft:slime": "2024-12-21 00:25:39 +0000"
     },
     "done": false
   },
@@ -2827,6 +2828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-21 00:27:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-21 00:13:55 +0000"
@@ -2842,6 +2849,18 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-12-20 23:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-21 00:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-21 00:27:05 +0000"
     },
     "done": true
   },
@@ -2875,9 +2894,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-12-21 00:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-21 00:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-21 00:27:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2024-12-21 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-21 00:27:05 +0000"
     },
     "done": true
   },
