@@ -1,57 +1,18 @@
-[23:42:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:42:07] [ServerMain/INFO]: Loaded 7 recipes
-[23:42:07] [ServerMain/INFO]: Loaded 1275 advancements
-[23:42:08] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[23:42:08] [Server thread/INFO]: Loading properties
-[23:42:08] [Server thread/INFO]: Default game type: SURVIVAL
-[23:42:08] [Server thread/INFO]: Generating keypair
-[23:42:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:42:08] [Server thread/INFO]: Using epoll channel type
-[23:42:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:42:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:42:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:42:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:42:08] [Server thread/INFO]: Preparing level "world"
-[23:42:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:42:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:42:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:42:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:42:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:42:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:42:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:42:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:42:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:42:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:42:13] [Worker-Main-3/INFO]: Preparing spawn area: 5%
-[23:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 68%
-[23:42:13] [Server thread/INFO]: Time elapsed: 5300 ms
-[23:42:13] [Server thread/INFO]: Done (5.439s)! For help, type "help"
-[23:42:14] [Server thread/ERROR]: Couldn't load server icon
-java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getWidth()" because "$$1" is null
-	at net.minecraft.server.MinecraftServer.j(SourceFile:807) ~[server-1.20.4.jar:?]
-	at java.util.Optional.flatMap(Optional.java:289) ~[?:?]
-	at net.minecraft.server.MinecraftServer.bm(SourceFile:804) ~[server-1.20.4.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:653) ~[server-1.20.4.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[server-1.20.4.jar:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[23:42:28] [Server thread/INFO]: Sammy757z[/127.46.249.115:40945] logged in with entity id 244 at (-12.5, 61.5625, -32.5)
-[23:42:28] [Server thread/INFO]: Sammy757z joined the game
-[23:43:44] [Server thread/INFO]: Named entity cfb['Jack Sparrow'/24, l='ServerLevel[§9OneBlock §eReborn]', x=-5.61, y=-195.95, z=-0.51] died: Jack Sparrow fell out of the world
-[23:44:28] [Server thread/INFO]: Jobelmax757[/127.46.249.115:34987] logged in with entity id 1214 at (-15.837899880261768, 61.0, -25.56465104225032)
-[23:44:28] [Server thread/INFO]: Jobelmax757 joined the game
-[23:44:45] [Server thread/INFO]: SANLORENZO[/127.68.242.207:43883] logged in with entity id 1374 at (-16.566774662918526, 61.0, -12.026318356060546)
-[23:44:45] [Server thread/INFO]: SANLORENZO joined the game
-[23:46:19] [Server thread/INFO]: maeatrokill2024[/127.47.48.193:42179] logged in with entity id 2192 at (3.1089487358058054, 61.0, 1.5180680350624907)
-[23:46:19] [Server thread/INFO]: maeatrokill2024 joined the game
-[23:46:33] [Server thread/INFO]: Sammy757z was slain by Vex
-[23:48:42] [Server thread/INFO]: Sammy757z lost connection: Disconnected
-[23:48:42] [Server thread/INFO]: Sammy757z left the game
-[23:49:20] [Server thread/INFO]: [Not Secure] <maeatrokill2024> as
-[23:51:52] [Server thread/INFO]: Sammy757z[/127.46.249.115:55017] logged in with entity id 5356 at (5.609902832770341, 62.5, -2.5553611661602402)
-[23:51:52] [Server thread/INFO]: Sammy757z joined the game
-[23:54:10] [Server thread/INFO]: [Not Secure] <Sammy757z> Jobelmax757
-[23:54:38] [Server thread/INFO]: Sammy757z fell out of the world
-[23:54:38] [Server thread/INFO]: Sammy757z lost connection: Disconnected
-[23:54:38] [Server thread/INFO]: Sammy757z left the game
-[23:54:45] [Server thread/INFO]: Sammy757z[/127.46.249.115:58019] logged in with entity id 6845 at (-11.607126422096787, -323.0509963273315, 36.46585726182924)
-[23:54:45] [Server thread/INFO]: Sammy757z joined the game
+[00:02:30] [Server thread/INFO]: Jobelmax757 has made the advancement [Diamonds!]
+[00:02:37] [Server thread/INFO]: SANLORENZO has made the advancement [What a Deal!]
+[00:05:00] [Server thread/INFO]: Sammy757z walked into fire while fighting Slime
+[00:06:49] [Server thread/INFO]: [Not Secure] <maeatrokill2024> mimir
+[00:07:03] [Server thread/INFO]: [Not Secure] <SANLORENZO> zzz
+[00:07:08] [Server thread/INFO]: [Not Secure] <maeatrokill2024> mimir
+[00:07:10] [Server thread/INFO]: [Not Secure] <maeatrokill2024> memer
+[00:07:13] [Server thread/INFO]: [Not Secure] <maeatrokill2024> buebue
+[00:07:15] [Server thread/INFO]: [Not Secure] <maeatrokill2024> pene
+[00:07:18] [Server thread/INFO]: [Not Secure] <maeatrokill2024> pena
+[00:07:20] [Server thread/INFO]: [Not Secure] <SANLORENZO> pilin
+[00:07:22] [Server thread/INFO]: [Not Secure] <maeatrokill2024> bue
+[00:07:29] [Server thread/INFO]: Sammy757z lost connection: Kicked by an operator
+[00:07:29] [Server thread/INFO]: Sammy757z left the game
+[00:07:29] [Server thread/WARN]: handleDisconnection() called twice
+[00:07:30] [Server thread/INFO]: [Not Secure] <maeatrokill2024> aparato reproductor
+[00:07:38] [Server thread/INFO]: Sammy757z[/127.46.249.115:53245] logged in with entity id 10075 at (-18.436710778677863, 61.0, -13.699999988079071)
+[00:07:38] [Server thread/INFO]: Sammy757z joined the game
