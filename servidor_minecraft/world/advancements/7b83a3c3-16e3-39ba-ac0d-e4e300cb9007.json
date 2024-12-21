@@ -1133,6 +1133,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-20 02:29:03 +0000",
       "minecraft:guardian": "2024-12-20 02:47:17 +0000",
+      "minecraft:magma_cube": "2024-12-21 00:49:40 +0000",
       "minecraft:spider": "2024-12-20 02:28:59 +0000",
       "minecraft:vex": "2024-12-20 23:50:00 +0000",
       "minecraft:zombie": "2024-12-20 02:26:31 +0000",
@@ -2403,6 +2404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-21 00:49:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-21 00:39:00 +0000"
@@ -2865,6 +2872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-21 00:49:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-21 00:02:30 +0000"
@@ -2988,6 +3001,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-21 00:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-21 00:49:48 +0000"
     },
     "done": true
   },

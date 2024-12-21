@@ -757,15 +757,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-20 03:10:11 +0000",
-      "minecraft:vindicator": "2024-12-20 03:07:26 +0000",
+      "minecraft:skeleton": "2024-12-21 00:50:27 +0000",
       "minecraft:witch": "2024-12-20 03:57:16 +0000",
+      "minecraft:husk": "2024-12-20 03:06:31 +0000",
+      "minecraft:shulker": "2024-12-20 23:59:53 +0000",
+      "minecraft:vindicator": "2024-12-20 03:07:26 +0000",
+      "minecraft:magma_cube": "2024-12-21 00:48:38 +0000",
       "minecraft:spider": "2024-12-20 01:10:08 +0000",
       "minecraft:vex": "2024-12-20 03:45:07 +0000",
+      "minecraft:zombie": "2024-12-21 00:49:50 +0000",
       "minecraft:drowned": "2024-12-20 02:51:33 +0000",
       "minecraft:zombie_villager": "2024-12-21 00:25:40 +0000",
-      "minecraft:husk": "2024-12-20 03:06:31 +0000",
-      "minecraft:slime": "2024-12-21 00:00:36 +0000",
-      "minecraft:shulker": "2024-12-20 23:59:53 +0000"
+      "minecraft:slime": "2024-12-21 00:00:36 +0000"
     },
     "done": false
   },
@@ -3007,6 +3010,24 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-21 00:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-21 00:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-21 00:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-21 00:34:49 +0000"
@@ -3016,6 +3037,66 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2024-12-21 00:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-21 00:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-21 00:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-21 00:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-21 00:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-21 00:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-21 00:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-21 00:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-21 00:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-21 00:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-21 00:49:01 +0000"
     },
     "done": true
   },
